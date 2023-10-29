@@ -1,0 +1,710 @@
+{
+    ".pdf": {
+        "file_index": 0,
+        "n_pages": 7,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "de_2008.pdf": {
+        "file_index": 2,
+        "n_pages": 1,
+        "n_words": 483,
+        "n_characters": 3722
+    },
+    "de_2009.pdf": {
+        "file_index": 3,
+        "n_pages": 5,
+        "n_words": 1860,
+        "n_characters": 15531
+    },
+    "de_2011.pdf": {
+        "file_index": 4,
+        "n_pages": 2,
+        "n_words": 1826,
+        "n_characters": 14519
+    },
+    "IN_01__de_07_de_maio_de_2015.pdf": {
+        "file_index": 5,
+        "n_pages": 6,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_01__de_07_de_marco_de_2014.pdf": {
+        "file_index": 6,
+        "n_pages": 8,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_01__de_11_de_janeiro_de_2016.pdf": {
+        "file_index": 7,
+        "n_pages": 6,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_01__de_15_de_janeiro_de_2018.pdf": {
+        "file_index": 8,
+        "n_pages": 6,
+        "n_words": 2911,
+        "n_characters": 23174
+    },
+    "IN_01__de_18_de__Setembro_de_2007.pdf": {
+        "file_index": 9,
+        "n_pages": 6,
+        "n_words": 1875,
+        "n_characters": 15058
+    },
+    "IN_01__de_23_de_abril_de_2021.pdf": {
+        "file_index": 10,
+        "n_pages": 6,
+        "n_words": 1969,
+        "n_characters": 17110
+    },
+    "IN_01__de_24_de_janeiro_de_2017.pdf": {
+        "file_index": 11,
+        "n_pages": 6,
+        "n_words": 2020,
+        "n_characters": 16016
+    },
+    "IN_01_de_02_de_Janeiro.pdf": {
+        "file_index": 12,
+        "n_pages": 5,
+        "n_words": 1860,
+        "n_characters": 15531
+    },
+    "IN_02,_de_26_de_maio_de_2021.pdf": {
+        "file_index": 13,
+        "n_pages": 5,
+        "n_words": 2264,
+        "n_characters": 18036
+    },
+    "IN_02,_de_janeiro_de_2022-_.pdf": {
+        "file_index": 14,
+        "n_pages": 10,
+        "n_words": 3770,
+        "n_characters": 31885
+    },
+    "IN_02__de_03_de_maio_de_2016.pdf": {
+        "file_index": 15,
+        "n_pages": 9,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_02__de_18_de_Setembro_de_2007_(REVOGADA_pela_IN_09_2014).pdf": {
+        "file_index": 16,
+        "n_pages": 9,
+        "n_words": 2814,
+        "n_characters": 22916
+    },
+    "IN_02__de_19_de_janeiro_de_2018.pdf": {
+        "file_index": 17,
+        "n_pages": 9,
+        "n_words": 4698,
+        "n_characters": 37277
+    },
+    "IN_02__de_22_de_novembro_de_2015.pdf": {
+        "file_index": 18,
+        "n_pages": 4,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_02__de_26_de_maio_de_2021.pdf": {
+        "file_index": 19,
+        "n_pages": 5,
+        "n_words": 2264,
+        "n_characters": 18036
+    },
+    "IN_02__de_27_de_junho_de_2014.pdf": {
+        "file_index": 20,
+        "n_pages": 2,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_02__de_30_de_janeiro_de_2017.pdf": {
+        "file_index": 21,
+        "n_pages": 5,
+        "n_words": 974,
+        "n_characters": 8111
+    },
+    "IN_02__de_janeiro_de_2022-.pdf": {
+        "file_index": 22,
+        "n_pages": 17,
+        "n_words": 8229,
+        "n_characters": 63833
+    },
+    "IN_02__de_janeiro_de_2022-_.pdf": {
+        "file_index": 23,
+        "n_pages": 10,
+        "n_words": 3770,
+        "n_characters": 31885
+    },
+    "IN_02_de_03_de_Setembro_de_2009.pdf": {
+        "file_index": 24,
+        "n_pages": 10,
+        "n_words": 3358,
+        "n_characters": 26923
+    },
+    "IN_03,_de_01_de_abril_de_2022.pdf": {
+        "file_index": 25,
+        "n_pages": 13,
+        "n_words": 6468,
+        "n_characters": 58146
+    },
+    "IN_03__de_01_de_abril_de_2022.pdf": {
+        "file_index": 26,
+        "n_pages": 13,
+        "n_words": 6468,
+        "n_characters": 58146
+    },
+    "IN_03__de_02_de_fevereiro_de_2018.pdf": {
+        "file_index": 27,
+        "n_pages": 12,
+        "n_words": 5366,
+        "n_characters": 41859
+    },
+    "IN_03__de_04_de_setembro_de_2017.pdf": {
+        "file_index": 28,
+        "n_pages": 5,
+        "n_words": 2313,
+        "n_characters": 18572
+    },
+    "IN_03__de_18_de_Setembro_de_2007.pdf": {
+        "file_index": 30,
+        "n_pages": 5,
+        "n_words": 1727,
+        "n_characters": 13634
+    },
+    "IN_03__de_1_de__setembro_de_2014.pdf": {
+        "file_index": 31,
+        "n_pages": 16,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_03_de_02_de_Setembro_de_2009.pdf": {
+        "file_index": 32,
+        "n_pages": 17,
+        "n_words": 2092,
+        "n_characters": 19721
+    },
+    "IN_04,_de_10_de_junho_de_2021_.pdf": {
+        "file_index": 33,
+        "n_pages": 2,
+        "n_words": 3151,
+        "n_characters": 26322
+    },
+    "IN_04__de_07_de_Abril_de_2008.pdf": {
+        "file_index": 34,
+        "n_pages": 7,
+        "n_words": 2305,
+        "n_characters": 19067
+    },
+    "IN_04__de_10_de_junho_de_2021.pdf": {
+        "file_index": 35,
+        "n_pages": 2,
+        "n_words": 3151,
+        "n_characters": 26322
+    },
+    "IN_04__de_10_de_junho_de_2021_.pdf": {
+        "file_index": 36,
+        "n_pages": 2,
+        "n_words": 3151,
+        "n_characters": 26322
+    },
+    "IN_04__de_15_de_setembro_de_2014.pdf": {
+        "file_index": 38,
+        "n_pages": 4,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_04__de_20_de_abril_de_2018.pdf": {
+        "file_index": 39,
+        "n_pages": 2,
+        "n_words": 399,
+        "n_characters": 3686
+    },
+    "IN_04__de_20_de_setembro_de_2017.pdf": {
+        "file_index": 40,
+        "n_pages": 2,
+        "n_words": 432,
+        "n_characters": 3724
+    },
+    "IN_04_de_02_de_Setembro_de_2009.pdf": {
+        "file_index": 41,
+        "n_pages": 3,
+        "n_words": 1108,
+        "n_characters": 9616
+    },
+    "IN_05,_de_14_de_abril_de_2022.pdf": {
+        "file_index": 42,
+        "n_pages": 1,
+        "n_words": 1800,
+        "n_characters": 14261
+    },
+    "IN_05,_de_28_de_junho_de_2021.pdf": {
+        "file_index": 43,
+        "n_pages": 9,
+        "n_words": 8783,
+        "n_characters": 77205
+    },
+    "IN_05__de_10_de_julho_de_2018.pdf": {
+        "file_index": 44,
+        "n_pages": 4,
+        "n_words": 917,
+        "n_characters": 8844
+    },
+    "IN_05__de_14_de_abril_de_2022.pdf": {
+        "file_index": 45,
+        "n_pages": 1,
+        "n_words": 1800,
+        "n_characters": 14261
+    },
+    "IN_05__de_22_de_setembro_de_2017.pdf": {
+        "file_index": 47,
+        "n_pages": 3,
+        "n_words": 856,
+        "n_characters": 6684
+    },
+    "IN_05__de_28_de_junho_de_2021.pdf": {
+        "file_index": 48,
+        "n_pages": 9,
+        "n_words": 8783,
+        "n_characters": 77205
+    },
+    "IN_05__de_29_de_setembro_de_2014.pdf": {
+        "file_index": 49,
+        "n_pages": 1,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_05_de_02_de_Setembro_de_2009.pdf": {
+        "file_index": 50,
+        "n_pages": 10,
+        "n_words": 2063,
+        "n_characters": 20539
+    },
+    "IN_05_de_17_de_Maio_de_2008.pdf": {
+        "file_index": 51,
+        "n_pages": 2,
+        "n_words": 620,
+        "n_characters": 4903
+    },
+    "IN_06,_de_03_maio_de_2022-.pdf": {
+        "file_index": 52,
+        "n_pages": 8,
+        "n_words": 2541,
+        "n_characters": 21717
+    },
+    "IN_06__de_03_maio_de_2022-.pdf": {
+        "file_index": 53,
+        "n_pages": 8,
+        "n_words": 2541,
+        "n_characters": 21717
+    },
+    "IN_06__de_30_de_outubro_de_2017.pdf": {
+        "file_index": 54,
+        "n_pages": 2,
+        "n_words": 365,
+        "n_characters": 3115
+    },
+    "IN_06__de_5_de_novembro_de_2014.pdf": {
+        "file_index": 55,
+        "n_pages": 8,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_06_de_01_de_Dezemnbro_de_2009.pdf": {
+        "file_index": 56,
+        "n_pages": 32,
+        "n_words": 8988,
+        "n_characters": 72226
+    },
+    "IN_06_de_25_de_Junho.pdf": {
+        "file_index": 57,
+        "n_pages": 1,
+        "n_words": 483,
+        "n_characters": 3722
+    },
+    "IN_07,_de_20_de_setembro_de_2021.pdf": {
+        "file_index": 58,
+        "n_pages": 11,
+        "n_words": 3767,
+        "n_characters": 32467
+    },
+    "IN_07__de_20_de_setembro_de_2021.pdf": {
+        "file_index": 59,
+        "n_pages": 11,
+        "n_words": 3767,
+        "n_characters": 32467
+    },
+    "IN_07__de_30_de_outubro_de_2017.pdf": {
+        "file_index": 60,
+        "n_pages": 8,
+        "n_words": 4191,
+        "n_characters": 32096
+    },
+    "IN_07__de_5_de_novembro_de_2014.pdf": {
+        "file_index": 61,
+        "n_pages": 24,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_07_de_17_de_Dezembro_de_2009.pdf": {
+        "file_index": 62,
+        "n_pages": 8,
+        "n_words": 1510,
+        "n_characters": 17209
+    },
+    "IN_08,_de_28_de_setembro_de_2021.pdf": {
+        "file_index": 63,
+        "n_pages": 17,
+        "n_words": 6475,
+        "n_characters": 53882
+    },
+    "IN_08__de_12_de_novembro_de_2014.pdf": {
+        "file_index": 64,
+        "n_pages": 14,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_08__de_28_de_setembro_de_2021.pdf": {
+        "file_index": 65,
+        "n_pages": 17,
+        "n_words": 6475,
+        "n_characters": 53882
+    },
+    "IN_08_de_18_de_Setembro_de_2008.pdf": {
+        "file_index": 66,
+        "n_pages": 2,
+        "n_words": 1126,
+        "n_characters": 9153
+    },
+    "IN_08_de_29_de_Dezembro_de_2009.pdf": {
+        "file_index": 67,
+        "n_pages": 3,
+        "n_words": 1236,
+        "n_characters": 9979
+    },
+    "IN_09,_de_13_de_outubro_de_2021.pdf": {
+        "file_index": 68,
+        "n_pages": 10,
+        "n_words": 3803,
+        "n_characters": 32230
+    },
+    "IN_09__de_02_de_fevereiro_de_2018.pdf": {
+        "file_index": 69,
+        "n_pages": 10,
+        "n_words": 2816,
+        "n_characters": 25645
+    },
+    "IN_09__de_13_de_outubro_de_2021.pdf": {
+        "file_index": 70,
+        "n_pages": 10,
+        "n_words": 3803,
+        "n_characters": 32230
+    },
+    "IN_09__de_5_de_dezembro_de_2014.pdf": {
+        "file_index": 71,
+        "n_pages": 18,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_10__de_17_de_agosto_de_2020.pdf": {
+        "file_index": 72,
+        "n_pages": 16,
+        "n_words": 43,
+        "n_characters": 49527
+    },
+    "IN_10__de_5_de_dezembro_de_2014.pdf": {
+        "file_index": 73,
+        "n_pages": 15,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_10_de_20_de_Maio_de_2010.pdf": {
+        "file_index": 74,
+        "n_pages": 3,
+        "n_words": 1371,
+        "n_characters": 10901
+    },
+    "IN_11__de_11_de_dezembro_de_2014.pdf": {
+        "file_index": 75,
+        "n_pages": 27,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_11__de_24_de_agosto_de_2018.pdf": {
+        "file_index": 76,
+        "n_pages": 6,
+        "n_words": 1941,
+        "n_characters": 16627
+    },
+    "IN_11_de_08_de_Junho_de_2010_(REVOGADA_pela_IN_09_2014).pdf": {
+        "file_index": 77,
+        "n_pages": 3,
+        "n_words": 1667,
+        "n_characters": 13494
+    },
+    "IN_12__de_21_de_outubro_de_2020.pdf": {
+        "file_index": 78,
+        "n_pages": 4,
+        "n_words": 8,
+        "n_characters": 10037
+    },
+    "IN_12__de_24_de_agosto_de_2018.pdf": {
+        "file_index": 79,
+        "n_pages": 1,
+        "n_words": 216,
+        "n_characters": 2233
+    },
+    "IN_12_de_30_de_Novembro_de_2010.pdf": {
+        "file_index": 80,
+        "n_pages": 6,
+        "n_words": 2250,
+        "n_characters": 19468
+    },
+    "IN_13__de_02_de_outubro_de_2018.pdf": {
+        "file_index": 81,
+        "n_pages": 17,
+        "n_words": 3098,
+        "n_characters": 29547
+    },
+    "IN_13_de_30_de_Novembro_de_2010.pdf": {
+        "file_index": 82,
+        "n_pages": 4,
+        "n_words": 1099,
+        "n_characters": 9795
+    },
+    "IN_14,_de_27_de_julho_de_2022.pdf": {
+        "file_index": 83,
+        "n_pages": 14,
+        "n_words": 8930,
+        "n_characters": 71637
+    },
+    "IN_14__de_10_de_outubro_de_2018.pdf": {
+        "file_index": 84,
+        "n_pages": 4,
+        "n_words": 1011,
+        "n_characters": 8561
+    },
+    "IN_14__de_27_de_julho_de_2022.pdf": {
+        "file_index": 85,
+        "n_pages": 14,
+        "n_words": 8930,
+        "n_characters": 71637
+    },
+    "IN_14_de_20_de_Dezembro.pdf": {
+        "file_index": 86,
+        "n_pages": 2,
+        "n_words": 756,
+        "n_characters": 6780
+    },
+    "IN_16__de_30_de_outubro_de_2018.pdf": {
+        "file_index": 88,
+        "n_pages": 8,
+        "n_words": 2598,
+        "n_characters": 21736
+    },
+    "IN_16_de_04_de_Agosto_de_2010.pdf": {
+        "file_index": 89,
+        "n_pages": 12,
+        "n_words": 2935,
+        "n_characters": 23603
+    },
+    "IN_17__de_07_de_novembro_de_2018.pdf": {
+        "file_index": 90,
+        "n_pages": 2,
+        "n_words": 343,
+        "n_characters": 3571
+    },
+    "IN_17_de_15_de_de_2011Agosto.pdf": {
+        "file_index": 91,
+        "n_pages": 2,
+        "n_words": 1826,
+        "n_characters": 14519
+    },
+    "IN_18__de_07_de_novembro_de_2018.pdf": {
+        "file_index": 92,
+        "n_pages": 10,
+        "n_words": 12,
+        "n_characters": 28455
+    },
+    "IN_18_de_22_de_Agosto_de_2011.pdf": {
+        "file_index": 93,
+        "n_pages": 1,
+        "n_words": 128,
+        "n_characters": 936
+    },
+    "IN_19_de_16_de_Setembro_de_2011.pdf": {
+        "file_index": 94,
+        "n_pages": 12,
+        "n_words": 2553,
+        "n_characters": 26326
+    },
+    "IN_20_de_22_de_Novembro_de_2011.pdf": {
+        "file_index": 95,
+        "n_pages": 14,
+        "n_words": 3566,
+        "n_characters": 31015
+    },
+    "IN_21__de_18_de_dezembro_de_2018.pdf": {
+        "file_index": 96,
+        "n_pages": 8,
+        "n_words": 14,
+        "n_characters": 18497
+    },
+    "IN_23__de_26_de_dezembro_de_2018.pdf": {
+        "file_index": 99,
+        "n_pages": 3,
+        "n_words": 5440,
+        "n_characters": 43313
+    },
+    "IN_26_de_04_de_Julho_de_2012.pdf": {
+        "file_index": 103,
+        "n_pages": 2,
+        "n_words": 4100,
+        "n_characters": 32088
+    },
+    "IN_27_de_04_de_Julho_de_2012.pdf": {
+        "file_index": 104,
+        "n_pages": 32,
+        "n_words": 7023,
+        "n_characters": 62379
+    },
+    "IN_28_de_5_de_Setembro_de_2012.pdf": {
+        "file_index": 105,
+        "n_pages": 20,
+        "n_words": 3692,
+        "n_characters": 31175
+    },
+    "IN_29_de_5_de_Setembro_de_2012.pdf": {
+        "file_index": 106,
+        "n_pages": 6,
+        "n_words": 2399,
+        "n_characters": 19390
+    },
+    "IN_30_de_19_de_Setembro_de_2012.pdf": {
+        "file_index": 107,
+        "n_pages": 8,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_31_de_17_de_janeiro_de_2013.pdf": {
+        "file_index": 108,
+        "n_pages": 6,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_32_de_13_de_Agosto_de_2013.pdf": {
+        "file_index": 109,
+        "n_pages": 7,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_33_de_23_de_Agosto_de_2013.pdf": {
+        "file_index": 110,
+        "n_pages": 4,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_34_de_17_de_Outubro_de_2013.pdf": {
+        "file_index": 111,
+        "n_pages": 7,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_35__de_27_de_dezembro_de_2013.pdf": {
+        "file_index": 112,
+        "n_pages": 16,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "IN_7__de_4_de_setembro_de_2019.pdf": {
+        "file_index": 113,
+        "n_pages": 2,
+        "n_words": 332,
+        "n_characters": 3136
+    },
+    "IN_84__de_22_de_abril_de_2020-.pdf": {
+        "file_index": 114,
+        "n_pages": 10,
+        "n_words": 3770,
+        "n_characters": 31885
+    },
+    "IN_9__de_11_de_agosto_de_2020.pdf": {
+        "file_index": 115,
+        "n_pages": 8,
+        "n_words": 17,
+        "n_characters": 21121
+    },
+    "IN___09_de_28_de_Abril_de_2010.pdf": {
+        "file_index": 117,
+        "n_pages": 5,
+        "n_words": 2614,
+        "n_characters": 20437
+    },
+    "IN_no_15,_de_29_de_julho_de_2022-.pdf": {
+        "file_index": 118,
+        "n_pages": 2,
+        "n_words": 692,
+        "n_characters": 6044
+    },
+    "IN_no_15__de_29_de_julho_de_2022-.pdf": {
+        "file_index": 119,
+        "n_pages": 2,
+        "n_words": 692,
+        "n_characters": 6044
+    },
+    "Minuta_de_Acordo_de_Cooperacao_entre_entes_publicos.pdf": {
+        "file_index": 121,
+        "n_pages": 4,
+        "n_words": 1726,
+        "n_characters": 15960
+    },
+    "Minuta_de_Edital_de_Chamamento_Publico.pdf": {
+        "file_index": 122,
+        "n_pages": 7,
+        "n_words": 7902,
+        "n_characters": 65468
+    },
+    "Minuta_de_Edital_de_Chamamento_Publico_-_Termo_de_Parceria.pdf": {
+        "file_index": 123,
+        "n_pages": 5,
+        "n_words": 1846,
+        "n_characters": 16157
+    },
+    "Minuta_de_Termo_de_Cessao.pdf": {
+        "file_index": 124,
+        "n_pages": 5,
+        "n_words": 1900,
+        "n_characters": 16243
+    },
+    "Minuta_de_Termo_de_Colaboracao.pdf": {
+        "file_index": 125,
+        "n_pages": 20,
+        "n_words": 13020,
+        "n_characters": 104575
+    },
+    "Minuta_de_Termo_de_Doacao.pdf": {
+        "file_index": 126,
+        "n_pages": 2,
+        "n_words": 447,
+        "n_characters": 4058
+    },
+    "Minuta_de_Termo_de_Fomento.pdf": {
+        "file_index": 127,
+        "n_pages": 21,
+        "n_words": 13388,
+        "n_characters": 107198
+    },
+    "Retificacao_da_IN_33__de_30_de_setembro_de_2013.pdf": {
+        "file_index": 129,
+        "n_pages": 2,
+        "n_words": 0,
+        "n_characters": 0
+    },
+    "Retificacao_de_Publicacao.pdf": {
+        "file_index": 130,
+        "n_pages": 1,
+        "n_words": 1595,
+        "n_characters": 18536
+    }
+}

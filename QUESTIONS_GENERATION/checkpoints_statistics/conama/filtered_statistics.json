@@ -1,0 +1,3266 @@
+{
+    "Decisao_CONAMA_No_001-2005.pdf": {
+        "file_index": 0,
+        "n_pages": 3,
+        "n_words": 537,
+        "n_characters": 5574
+    },
+    "Decisao_CONAMA_No_002-2006.pdf": {
+        "file_index": 1,
+        "n_pages": 2,
+        "n_words": 300,
+        "n_characters": 3143
+    },
+    "Decisao_CONAMA_No_003-2006.pdf": {
+        "file_index": 2,
+        "n_pages": 3,
+        "n_words": 355,
+        "n_characters": 3664
+    },
+    "Decisao_CONAMA_No_005-2006.pdf": {
+        "file_index": 3,
+        "n_pages": 4,
+        "n_words": 611,
+        "n_characters": 5861
+    },
+    "Decisao_CONAMA_No_006-2007.pdf": {
+        "file_index": 4,
+        "n_pages": 2,
+        "n_words": 605,
+        "n_characters": 6096
+    },
+    "Decisao_CONAMA_No_007-2008.pdf": {
+        "file_index": 5,
+        "n_pages": 2,
+        "n_words": 454,
+        "n_characters": 4537
+    },
+    "Mocao_CONAMA_No_012-2001.pdf": {
+        "file_index": 17,
+        "n_pages": 1,
+        "n_words": 212,
+        "n_characters": 1824
+    },
+    "Mocao_CONAMA_No_018-2001.pdf": {
+        "file_index": 23,
+        "n_pages": 1,
+        "n_words": 150,
+        "n_characters": 1159
+    },
+    "Mocao_CONAMA_No_019-2001.pdf": {
+        "file_index": 24,
+        "n_pages": 1,
+        "n_words": 377,
+        "n_characters": 3023
+    },
+    "Mocao_CONAMA_No_021-2001.pdf": {
+        "file_index": 26,
+        "n_pages": 1,
+        "n_words": 366,
+        "n_characters": 2793
+    },
+    "Mocao_CONAMA_No_022-2001.pdf": {
+        "file_index": 27,
+        "n_pages": 2,
+        "n_words": 657,
+        "n_characters": 4684
+    },
+    "Mocao_CONAMA_No_024-2001.pdf": {
+        "file_index": 28,
+        "n_pages": 1,
+        "n_words": 135,
+        "n_characters": 1066
+    },
+    "Mocao_CONAMA_No_025-2001.pdf": {
+        "file_index": 29,
+        "n_pages": 1,
+        "n_words": 258,
+        "n_characters": 2007
+    },
+    "Mocao_CONAMA_No_026-2001.pdf": {
+        "file_index": 30,
+        "n_pages": 1,
+        "n_words": 276,
+        "n_characters": 2126
+    },
+    "Mocao_CONAMA_No_028-2001.pdf": {
+        "file_index": 32,
+        "n_pages": 1,
+        "n_words": 458,
+        "n_characters": 3394
+    },
+    "Mocao_CONAMA_No_029-2001.pdf": {
+        "file_index": 33,
+        "n_pages": 1,
+        "n_words": 193,
+        "n_characters": 1454
+    },
+    "Mocao_CONAMA_No_031-2001.pdf": {
+        "file_index": 35,
+        "n_pages": 2,
+        "n_words": 475,
+        "n_characters": 3823
+    },
+    "Mocao_CONAMA_No_032-2001.pdf": {
+        "file_index": 36,
+        "n_pages": 1,
+        "n_words": 158,
+        "n_characters": 1163
+    },
+    "Mocao_CONAMA_No_033-2001.pdf": {
+        "file_index": 37,
+        "n_pages": 1,
+        "n_words": 191,
+        "n_characters": 1494
+    },
+    "Mocao_CONAMA_No_034-2002.pdf": {
+        "file_index": 38,
+        "n_pages": 1,
+        "n_words": 136,
+        "n_characters": 981
+    },
+    "Mocao_CONAMA_No_035-2002.pdf": {
+        "file_index": 39,
+        "n_pages": 1,
+        "n_words": 112,
+        "n_characters": 859
+    },
+    "Mocao_CONAMA_No_036-2002.pdf": {
+        "file_index": 40,
+        "n_pages": 1,
+        "n_words": 191,
+        "n_characters": 1423
+    },
+    "Mocao_CONAMA_No_038-2002.pdf": {
+        "file_index": 42,
+        "n_pages": 1,
+        "n_words": 129,
+        "n_characters": 1116
+    },
+    "Mocao_CONAMA_No_045-2002.pdf": {
+        "file_index": 49,
+        "n_pages": 1,
+        "n_words": 304,
+        "n_characters": 2293
+    },
+    "Mocao_CONAMA_No_046-2002.pdf": {
+        "file_index": 50,
+        "n_pages": 1,
+        "n_words": 328,
+        "n_characters": 2378
+    },
+    "Mocao_CONAMA_No_047-2002.pdf": {
+        "file_index": 51,
+        "n_pages": 1,
+        "n_words": 387,
+        "n_characters": 2989
+    },
+    "Mocao_CONAMA_No_048-2002.pdf": {
+        "file_index": 52,
+        "n_pages": 1,
+        "n_words": 370,
+        "n_characters": 2727
+    },
+    "Mocao_CONAMA_No_050-2003.pdf": {
+        "file_index": 54,
+        "n_pages": 1,
+        "n_words": 102,
+        "n_characters": 896
+    },
+    "Mocao_CONAMA_No_051-2003.pdf": {
+        "file_index": 55,
+        "n_pages": 1,
+        "n_words": 247,
+        "n_characters": 1941
+    },
+    "Mocao_CONAMA_No_052-2003.pdf": {
+        "file_index": 56,
+        "n_pages": 1,
+        "n_words": 144,
+        "n_characters": 1184
+    },
+    "Mocao_CONAMA_No_053-2003.pdf": {
+        "file_index": 57,
+        "n_pages": 1,
+        "n_words": 218,
+        "n_characters": 1558
+    },
+    "Mocao_CONAMA_No_054-2003.pdf": {
+        "file_index": 58,
+        "n_pages": 1,
+        "n_words": 316,
+        "n_characters": 2697
+    },
+    "Mocao_CONAMA_No_055-2003.pdf": {
+        "file_index": 59,
+        "n_pages": 1,
+        "n_words": 235,
+        "n_characters": 1816
+    },
+    "Mocao_CONAMA_No_056-2003.pdf": {
+        "file_index": 60,
+        "n_pages": 1,
+        "n_words": 104,
+        "n_characters": 800
+    },
+    "Mocao_CONAMA_No_058-2003.pdf": {
+        "file_index": 62,
+        "n_pages": 1,
+        "n_words": 150,
+        "n_characters": 1128
+    },
+    "Mocao_CONAMA_No_060-2003.pdf": {
+        "file_index": 64,
+        "n_pages": 1,
+        "n_words": 137,
+        "n_characters": 1124
+    },
+    "Mocao_CONAMA_No_061-2004.pdf": {
+        "file_index": 65,
+        "n_pages": 1,
+        "n_words": 291,
+        "n_characters": 2243
+    },
+    "Mocao_CONAMA_No_062-2004.pdf": {
+        "file_index": 66,
+        "n_pages": 1,
+        "n_words": 317,
+        "n_characters": 2378
+    },
+    "Mocao_CONAMA_No_063-2004.pdf": {
+        "file_index": 67,
+        "n_pages": 1,
+        "n_words": 159,
+        "n_characters": 1140
+    },
+    "Mocao_CONAMA_No_064-2005.pdf": {
+        "file_index": 68,
+        "n_pages": 2,
+        "n_words": 567,
+        "n_characters": 4765
+    },
+    "Mocao_CONAMA_No_065-2005.pdf": {
+        "file_index": 69,
+        "n_pages": 1,
+        "n_words": 281,
+        "n_characters": 2074
+    },
+    "Mocao_CONAMA_No_066-2005.pdf": {
+        "file_index": 70,
+        "n_pages": 1,
+        "n_words": 238,
+        "n_characters": 1885
+    },
+    "Mocao_CONAMA_No_067-2005.pdf": {
+        "file_index": 71,
+        "n_pages": 1,
+        "n_words": 227,
+        "n_characters": 1781
+    },
+    "Mocao_CONAMA_No_068-2005.pdf": {
+        "file_index": 72,
+        "n_pages": 1,
+        "n_words": 116,
+        "n_characters": 836
+    },
+    "Mocao_CONAMA_No_069-2005.pdf": {
+        "file_index": 73,
+        "n_pages": 1,
+        "n_words": 185,
+        "n_characters": 1399
+    },
+    "Mocao_CONAMA_No_070-2005.pdf": {
+        "file_index": 74,
+        "n_pages": 1,
+        "n_words": 239,
+        "n_characters": 1828
+    },
+    "Mocao_CONAMA_No_071-2005.pdf": {
+        "file_index": 75,
+        "n_pages": 1,
+        "n_words": 423,
+        "n_characters": 3196
+    },
+    "Mocao_CONAMA_No_072-2005.pdf": {
+        "file_index": 76,
+        "n_pages": 1,
+        "n_words": 177,
+        "n_characters": 1274
+    },
+    "Mocao_CONAMA_No_073-2005.pdf": {
+        "file_index": 77,
+        "n_pages": 1,
+        "n_words": 126,
+        "n_characters": 931
+    },
+    "Mocao_CONAMA_No_074-2006.pdf": {
+        "file_index": 78,
+        "n_pages": 1,
+        "n_words": 366,
+        "n_characters": 2791
+    },
+    "Mocao_CONAMA_No_075-2006.pdf": {
+        "file_index": 79,
+        "n_pages": 1,
+        "n_words": 235,
+        "n_characters": 1746
+    },
+    "Mocao_CONAMA_No_076-2006.pdf": {
+        "file_index": 80,
+        "n_pages": 1,
+        "n_words": 97,
+        "n_characters": 696
+    },
+    "Mocao_CONAMA_No_077-2006.pdf": {
+        "file_index": 81,
+        "n_pages": 3,
+        "n_words": 1063,
+        "n_characters": 8341
+    },
+    "Mocao_CONAMA_No_078-2006.pdf": {
+        "file_index": 82,
+        "n_pages": 1,
+        "n_words": 246,
+        "n_characters": 1868
+    },
+    "Mocao_CONAMA_No_079-2006.pdf": {
+        "file_index": 83,
+        "n_pages": 1,
+        "n_words": 320,
+        "n_characters": 2442
+    },
+    "Mocao_CONAMA_No_080-2006.pdf": {
+        "file_index": 84,
+        "n_pages": 1,
+        "n_words": 379,
+        "n_characters": 2682
+    },
+    "Mocao_CONAMA_No_081-2006.pdf": {
+        "file_index": 85,
+        "n_pages": 1,
+        "n_words": 309,
+        "n_characters": 2411
+    },
+    "Mocao_CONAMA_No_082-2006.pdf": {
+        "file_index": 86,
+        "n_pages": 2,
+        "n_words": 498,
+        "n_characters": 3723
+    },
+    "Mocao_CONAMA_No_083-2007.pdf": {
+        "file_index": 87,
+        "n_pages": 2,
+        "n_words": 1038,
+        "n_characters": 7488
+    },
+    "Mocao_CONAMA_No_084-2007.pdf": {
+        "file_index": 88,
+        "n_pages": 1,
+        "n_words": 391,
+        "n_characters": 3054
+    },
+    "Mocao_CONAMA_No_085-2007.pdf": {
+        "file_index": 89,
+        "n_pages": 2,
+        "n_words": 972,
+        "n_characters": 7104
+    },
+    "Mocao_CONAMA_No_086-2007.pdf": {
+        "file_index": 90,
+        "n_pages": 6,
+        "n_words": 2221,
+        "n_characters": 17403
+    },
+    "Mocao_CONAMA_No_087-2008.pdf": {
+        "file_index": 91,
+        "n_pages": 1,
+        "n_words": 324,
+        "n_characters": 2528
+    },
+    "Mocao_CONAMA_No_088-2008.pdf": {
+        "file_index": 92,
+        "n_pages": 1,
+        "n_words": 184,
+        "n_characters": 1343
+    },
+    "Mocao_CONAMA_No_089-2008.pdf": {
+        "file_index": 93,
+        "n_pages": 1,
+        "n_words": 186,
+        "n_characters": 1456
+    },
+    "Mocao_CONAMA_No_090-2008.pdf": {
+        "file_index": 94,
+        "n_pages": 3,
+        "n_words": 1043,
+        "n_characters": 8135
+    },
+    "Mocao_CONAMA_No_091-2008.pdf": {
+        "file_index": 95,
+        "n_pages": 2,
+        "n_words": 584,
+        "n_characters": 4475
+    },
+    "Mocao_CONAMA_No_093-2008.pdf": {
+        "file_index": 97,
+        "n_pages": 2,
+        "n_words": 542,
+        "n_characters": 4374
+    },
+    "Mocao_CONAMA_No_094-2008.pdf": {
+        "file_index": 98,
+        "n_pages": 1,
+        "n_words": 319,
+        "n_characters": 2387
+    },
+    "Mocao_CONAMA_No_096-2009.pdf": {
+        "file_index": 100,
+        "n_pages": 1,
+        "n_words": 282,
+        "n_characters": 2270
+    },
+    "Mocao_CONAMA_No_097-2009.pdf": {
+        "file_index": 101,
+        "n_pages": 1,
+        "n_words": 333,
+        "n_characters": 2736
+    },
+    "Mocao_CONAMA_No_098-2009.pdf": {
+        "file_index": 102,
+        "n_pages": 1,
+        "n_words": 290,
+        "n_characters": 2157
+    },
+    "Mocao_CONAMA_No_099-2009.pdf": {
+        "file_index": 103,
+        "n_pages": 1,
+        "n_words": 308,
+        "n_characters": 2584
+    },
+    "Mocao_CONAMA_No_100-2009.pdf": {
+        "file_index": 104,
+        "n_pages": 1,
+        "n_words": 283,
+        "n_characters": 2203
+    },
+    "Mocao_CONAMA_No_101-2009.pdf": {
+        "file_index": 105,
+        "n_pages": 1,
+        "n_words": 432,
+        "n_characters": 3062
+    },
+    "Mocao_CONAMA_No_102-2009.pdf": {
+        "file_index": 106,
+        "n_pages": 1,
+        "n_words": 371,
+        "n_characters": 3095
+    },
+    "Mocao_CONAMA_No_103-2009.pdf": {
+        "file_index": 107,
+        "n_pages": 2,
+        "n_words": 593,
+        "n_characters": 4857
+    },
+    "Mocao_CONAMA_No_104-2009.pdf": {
+        "file_index": 108,
+        "n_pages": 1,
+        "n_words": 322,
+        "n_characters": 2253
+    },
+    "Mocao_CONAMA_No_105-2010.pdf": {
+        "file_index": 109,
+        "n_pages": 1,
+        "n_words": 305,
+        "n_characters": 2311
+    },
+    "Mocao_CONAMA_No_106-2010.pdf": {
+        "file_index": 110,
+        "n_pages": 2,
+        "n_words": 604,
+        "n_characters": 4598
+    },
+    "Mocao_CONAMA_No_108-2010.pdf": {
+        "file_index": 112,
+        "n_pages": 1,
+        "n_words": 211,
+        "n_characters": 1591
+    },
+    "Mocao_CONAMA_No_109-2010.pdf": {
+        "file_index": 113,
+        "n_pages": 1,
+        "n_words": 194,
+        "n_characters": 1503
+    },
+    "Mocao_CONAMA_No_111-2010.pdf": {
+        "file_index": 115,
+        "n_pages": 1,
+        "n_words": 338,
+        "n_characters": 2463
+    },
+    "Mocao_CONAMA_No_112-2010.pdf": {
+        "file_index": 116,
+        "n_pages": 1,
+        "n_words": 419,
+        "n_characters": 3098
+    },
+    "Mocao_CONAMA_No_116-2011.pdf": {
+        "file_index": 120,
+        "n_pages": 1,
+        "n_words": 278,
+        "n_characters": 2008
+    },
+    "Mocao_CONAMA_No_119-2011.pdf": {
+        "file_index": 123,
+        "n_pages": 2,
+        "n_words": 609,
+        "n_characters": 4581
+    },
+    "Mocao_CONAMA_No_120-2012.pdf": {
+        "file_index": 124,
+        "n_pages": 1,
+        "n_words": 206,
+        "n_characters": 1623
+    },
+    "Mocao_CONAMA_No_123-2013.pdf": {
+        "file_index": 127,
+        "n_pages": 1,
+        "n_words": 325,
+        "n_characters": 2419
+    },
+    "Mocao_CONAMA_No_126-2014.pdf": {
+        "file_index": 130,
+        "n_pages": 2,
+        "n_words": 624,
+        "n_characters": 4500
+    },
+    "Mocao_CONAMA_No_128-2017.pdf": {
+        "file_index": 132,
+        "n_pages": 2,
+        "n_words": 613,
+        "n_characters": 4646
+    },
+    "Mocao_CONAMA_No_129-2017.pdf": {
+        "file_index": 133,
+        "n_pages": 2,
+        "n_words": 581,
+        "n_characters": 4883
+    },
+    "Mocao_CONAMA_No_130-2018.pdf": {
+        "file_index": 134,
+        "n_pages": 2,
+        "n_words": 521,
+        "n_characters": 3953
+    },
+    "Mocao_CONAMA_No_131-2018.pdf": {
+        "file_index": 135,
+        "n_pages": 2,
+        "n_words": 539,
+        "n_characters": 4244
+    },
+    "Portaria_CONAMA_No_168-2005.pdf": {
+        "file_index": 136,
+        "n_pages": 17,
+        "n_words": 5855,
+        "n_characters": 48396
+    },
+    "Portaria_CONAMA_No_452-2011.pdf": {
+        "file_index": 137,
+        "n_pages": 23,
+        "n_words": 7385,
+        "n_characters": 61648
+    },
+    "Portaria_CONAMA_No_467-2023.pdf": {
+        "file_index": 140,
+        "n_pages": 13,
+        "n_words": 1530,
+        "n_characters": 16162
+    },
+    "Portaria_CONAMA_No_496-2023.pdf": {
+        "file_index": 141,
+        "n_pages": 1,
+        "n_words": 173,
+        "n_characters": 2492
+    },
+    "Portaria_CONAMA_No_630-2019.pdf": {
+        "file_index": 142,
+        "n_pages": 14,
+        "n_words": 5168,
+        "n_characters": 43115
+    },
+    "Proposicao_CONAMA_No_001-2003.pdf": {
+        "file_index": 143,
+        "n_pages": 1,
+        "n_words": 225,
+        "n_characters": 1915
+    },
+    "Proposicao_CONAMA_No_002-2010.pdf": {
+        "file_index": 144,
+        "n_pages": 1,
+        "n_words": 314,
+        "n_characters": 2434
+    },
+    "Proposicao_CONAMA_No_003-2011.pdf": {
+        "file_index": 145,
+        "n_pages": 1,
+        "n_words": 194,
+        "n_characters": 1463
+    },
+    "Recomendacao_CONAMA_No_002-2005.pdf": {
+        "file_index": 147,
+        "n_pages": 1,
+        "n_words": 157,
+        "n_characters": 1289
+    },
+    "Recomendacao_CONAMA_No_003-2006.pdf": {
+        "file_index": 148,
+        "n_pages": 1,
+        "n_words": 281,
+        "n_characters": 2374
+    },
+    "Recomendacao_CONAMA_No_004-2006.pdf": {
+        "file_index": 149,
+        "n_pages": 1,
+        "n_words": 188,
+        "n_characters": 1611
+    },
+    "Recomendacao_CONAMA_No_005-2006.pdf": {
+        "file_index": 151,
+        "n_pages": 1,
+        "n_words": 138,
+        "n_characters": 1028
+    },
+    "Recomendacao_CONAMA_No_006-2008.pdf": {
+        "file_index": 152,
+        "n_pages": 63,
+        "n_words": 13759,
+        "n_characters": 127511
+    },
+    "Recomendacao_CONAMA_No_007-2008.pdf": {
+        "file_index": 153,
+        "n_pages": 1,
+        "n_words": 250,
+        "n_characters": 1944
+    },
+    "Recomendacao_CONAMA_No_008-2008.pdf": {
+        "file_index": 154,
+        "n_pages": 1,
+        "n_words": 187,
+        "n_characters": 1450
+    },
+    "Recomendacao_CONAMA_No_009-2008.pdf": {
+        "file_index": 155,
+        "n_pages": 1,
+        "n_words": 276,
+        "n_characters": 2091
+    },
+    "Recomendacao_CONAMA_No_010-2009.pdf": {
+        "file_index": 156,
+        "n_pages": 2,
+        "n_words": 603,
+        "n_characters": 4632
+    },
+    "Recomendacao_CONAMA_No_011-2011.pdf": {
+        "file_index": 157,
+        "n_pages": 3,
+        "n_words": 905,
+        "n_characters": 8295
+    },
+    "Recomendacao_CONAMA_No_013-2012.pdf": {
+        "file_index": 159,
+        "n_pages": 1,
+        "n_words": 285,
+        "n_characters": 2071
+    },
+    "Resolucao_CONAMA_No_001-1985.pdf": {
+        "file_index": 164,
+        "n_pages": 1,
+        "n_words": 208,
+        "n_characters": 1538
+    },
+    "Resolucao_CONAMA_No_001-1986.pdf": {
+        "file_index": 165,
+        "n_pages": 4,
+        "n_words": 1663,
+        "n_characters": 13463
+    },
+    "Resolucao_CONAMA_No_001-1987.pdf": {
+        "file_index": 166,
+        "n_pages": 2,
+        "n_words": 187,
+        "n_characters": 1630
+    },
+    "Resolucao_CONAMA_No_001-1989.pdf": {
+        "file_index": 168,
+        "n_pages": 1,
+        "n_words": 194,
+        "n_characters": 1692
+    },
+    "Resolucao_CONAMA_No_001-1990.pdf": {
+        "file_index": 169,
+        "n_pages": 1,
+        "n_words": 429,
+        "n_characters": 3335
+    },
+    "Resolucao_CONAMA_No_001-1991.pdf": {
+        "file_index": 170,
+        "n_pages": 2,
+        "n_words": 458,
+        "n_characters": 3910
+    },
+    "Resolucao_CONAMA_No_001-1993.pdf": {
+        "file_index": 171,
+        "n_pages": 13,
+        "n_words": 4224,
+        "n_characters": 34270
+    },
+    "Resolucao_CONAMA_No_001-1994.pdf": {
+        "file_index": 172,
+        "n_pages": 3,
+        "n_words": 1108,
+        "n_characters": 11384
+    },
+    "Resolucao_CONAMA_No_001-1996.pdf": {
+        "file_index": 174,
+        "n_pages": 1,
+        "n_words": 154,
+        "n_characters": 1432
+    },
+    "Resolucao_CONAMA_No_0011-1993.pdf": {
+        "file_index": 176,
+        "n_pages": 1,
+        "n_words": 218,
+        "n_characters": 1840
+    },
+    "Resolucao_CONAMA_No_002-1985.pdf": {
+        "file_index": 177,
+        "n_pages": 1,
+        "n_words": 127,
+        "n_characters": 1031
+    },
+    "Resolucao_CONAMA_No_002-1987.pdf": {
+        "file_index": 179,
+        "n_pages": 2,
+        "n_words": 198,
+        "n_characters": 1643
+    },
+    "Resolucao_CONAMA_No_002-1988.pdf": {
+        "file_index": 180,
+        "n_pages": 1,
+        "n_words": 240,
+        "n_characters": 1879
+    },
+    "Resolucao_CONAMA_No_002-1989.pdf": {
+        "file_index": 181,
+        "n_pages": 1,
+        "n_words": 244,
+        "n_characters": 1957
+    },
+    "Resolucao_CONAMA_No_002-1990.pdf": {
+        "file_index": 182,
+        "n_pages": 1,
+        "n_words": 488,
+        "n_characters": 3754
+    },
+    "Resolucao_CONAMA_No_002-1991.pdf": {
+        "file_index": 183,
+        "n_pages": 1,
+        "n_words": 419,
+        "n_characters": 3377
+    },
+    "Resolucao_CONAMA_No_002-1993.pdf": {
+        "file_index": 184,
+        "n_pages": 15,
+        "n_words": 4384,
+        "n_characters": 37759
+    },
+    "Resolucao_CONAMA_No_002-1994.pdf": {
+        "file_index": 185,
+        "n_pages": 3,
+        "n_words": 940,
+        "n_characters": 8122
+    },
+    "Resolucao_CONAMA_No_002-1995.pdf": {
+        "file_index": 186,
+        "n_pages": 2,
+        "n_words": 157,
+        "n_characters": 1331
+    },
+    "Resolucao_CONAMA_No_002-1996.pdf": {
+        "file_index": 187,
+        "n_pages": 2,
+        "n_words": 498,
+        "n_characters": 4213
+    },
+    "Resolucao_CONAMA_No_0021-1993.pdf": {
+        "file_index": 188,
+        "n_pages": 1,
+        "n_words": 228,
+        "n_characters": 1822
+    },
+    "Resolucao_CONAMA_No_003-1985.pdf": {
+        "file_index": 189,
+        "n_pages": 1,
+        "n_words": 272,
+        "n_characters": 2121
+    },
+    "Resolucao_CONAMA_No_003-1986.pdf": {
+        "file_index": 190,
+        "n_pages": 2,
+        "n_words": 323,
+        "n_characters": 2314
+    },
+    "Resolucao_CONAMA_No_003-1987.pdf": {
+        "file_index": 191,
+        "n_pages": 2,
+        "n_words": 214,
+        "n_characters": 1790
+    },
+    "Resolucao_CONAMA_No_003-1988.pdf": {
+        "file_index": 192,
+        "n_pages": 2,
+        "n_words": 287,
+        "n_characters": 2533
+    },
+    "Resolucao_CONAMA_No_003-1989.pdf": {
+        "file_index": 193,
+        "n_pages": 2,
+        "n_words": 520,
+        "n_characters": 4118
+    },
+    "Resolucao_CONAMA_No_003-1990.pdf": {
+        "file_index": 194,
+        "n_pages": 5,
+        "n_words": 1643,
+        "n_characters": 14050
+    },
+    "Resolucao_CONAMA_No_003-1991.pdf": {
+        "file_index": 195,
+        "n_pages": 5,
+        "n_words": 947,
+        "n_characters": 7650
+    },
+    "Resolucao_CONAMA_No_003-1993.pdf": {
+        "file_index": 196,
+        "n_pages": 1,
+        "n_words": 250,
+        "n_characters": 2024
+    },
+    "Resolucao_CONAMA_No_003-1994.pdf": {
+        "file_index": 197,
+        "n_pages": 2,
+        "n_words": 312,
+        "n_characters": 2510
+    },
+    "Resolucao_CONAMA_No_004-1985.pdf": {
+        "file_index": 201,
+        "n_pages": 4,
+        "n_words": 978,
+        "n_characters": 7924
+    },
+    "Resolucao_CONAMA_No_004-1987.pdf": {
+        "file_index": 203,
+        "n_pages": 2,
+        "n_words": 191,
+        "n_characters": 1627
+    },
+    "Resolucao_CONAMA_No_004-1988.pdf": {
+        "file_index": 204,
+        "n_pages": 1,
+        "n_words": 140,
+        "n_characters": 1068
+    },
+    "Resolucao_CONAMA_No_004-1989.pdf": {
+        "file_index": 205,
+        "n_pages": 2,
+        "n_words": 416,
+        "n_characters": 3191
+    },
+    "Resolucao_CONAMA_No_004-1990.pdf": {
+        "file_index": 206,
+        "n_pages": 1,
+        "n_words": 262,
+        "n_characters": 2073
+    },
+    "Resolucao_CONAMA_No_004-1991.pdf": {
+        "file_index": 207,
+        "n_pages": 1,
+        "n_words": 172,
+        "n_characters": 1382
+    },
+    "Resolucao_CONAMA_No_004-1993.pdf": {
+        "file_index": 208,
+        "n_pages": 1,
+        "n_words": 255,
+        "n_characters": 2070
+    },
+    "Resolucao_CONAMA_No_004-1994.pdf": {
+        "file_index": 209,
+        "n_pages": 3,
+        "n_words": 1009,
+        "n_characters": 9854
+    },
+    "Resolucao_CONAMA_No_005-1984.pdf": {
+        "file_index": 212,
+        "n_pages": 2,
+        "n_words": 226,
+        "n_characters": 1776
+    },
+    "Resolucao_CONAMA_No_005-1987.pdf": {
+        "file_index": 215,
+        "n_pages": 3,
+        "n_words": 524,
+        "n_characters": 4352
+    },
+    "Resolucao_CONAMA_No_005-1988.pdf": {
+        "file_index": 216,
+        "n_pages": 2,
+        "n_words": 430,
+        "n_characters": 3473
+    },
+    "Resolucao_CONAMA_No_005-1989.pdf": {
+        "file_index": 217,
+        "n_pages": 4,
+        "n_words": 1336,
+        "n_characters": 10332
+    },
+    "Resolucao_CONAMA_No_005-1990.pdf": {
+        "file_index": 218,
+        "n_pages": 2,
+        "n_words": 828,
+        "n_characters": 6225
+    },
+    "Resolucao_CONAMA_No_005-1991.pdf": {
+        "file_index": 219,
+        "n_pages": 1,
+        "n_words": 130,
+        "n_characters": 1120
+    },
+    "Resolucao_CONAMA_No_005-1993.pdf": {
+        "file_index": 220,
+        "n_pages": 4,
+        "n_words": 1592,
+        "n_characters": 13732
+    },
+    "Resolucao_CONAMA_No_005-1994.pdf": {
+        "file_index": 221,
+        "n_pages": 3,
+        "n_words": 907,
+        "n_characters": 9225
+    },
+    "Resolucao_CONAMA_No_005-1995.pdf": {
+        "file_index": 222,
+        "n_pages": 5,
+        "n_words": 1146,
+        "n_characters": 9307
+    },
+    "Resolucao_CONAMA_No_006-1986.pdf": {
+        "file_index": 225,
+        "n_pages": 2,
+        "n_words": 618,
+        "n_characters": 4820
+    },
+    "Resolucao_CONAMA_No_006-1988.pdf": {
+        "file_index": 227,
+        "n_pages": 13,
+        "n_words": 1988,
+        "n_characters": 20055
+    },
+    "Resolucao_CONAMA_No_006-1989.pdf": {
+        "file_index": 228,
+        "n_pages": 2,
+        "n_words": 354,
+        "n_characters": 3981
+    },
+    "Resolucao_CONAMA_No_006-1990.pdf": {
+        "file_index": 229,
+        "n_pages": 1,
+        "n_words": 283,
+        "n_characters": 2174
+    },
+    "Resolucao_CONAMA_No_006-1991.pdf": {
+        "file_index": 230,
+        "n_pages": 1,
+        "n_words": 284,
+        "n_characters": 2203
+    },
+    "Resolucao_CONAMA_No_006-1993.pdf": {
+        "file_index": 231,
+        "n_pages": 2,
+        "n_words": 610,
+        "n_characters": 5009
+    },
+    "Resolucao_CONAMA_No_006-1994.pdf": {
+        "file_index": 232,
+        "n_pages": 3,
+        "n_words": 889,
+        "n_characters": 8940
+    },
+    "Resolucao_CONAMA_No_006-1995.pdf": {
+        "file_index": 233,
+        "n_pages": 2,
+        "n_words": 284,
+        "n_characters": 2234
+    },
+    "Resolucao_CONAMA_No_006-1996.pdf": {
+        "file_index": 234,
+        "n_pages": 1,
+        "n_words": 149,
+        "n_characters": 1254
+    },
+    "Resolucao_CONAMA_No_007-1987.pdf": {
+        "file_index": 237,
+        "n_pages": 2,
+        "n_words": 626,
+        "n_characters": 5089
+    },
+    "Resolucao_CONAMA_No_007-1988.pdf": {
+        "file_index": 238,
+        "n_pages": 1,
+        "n_words": 152,
+        "n_characters": 1221
+    },
+    "Resolucao_CONAMA_No_007-1989.pdf": {
+        "file_index": 239,
+        "n_pages": 1,
+        "n_words": 223,
+        "n_characters": 2115
+    },
+    "Resolucao_CONAMA_No_007-1990.pdf": {
+        "file_index": 240,
+        "n_pages": 3,
+        "n_words": 741,
+        "n_characters": 6096
+    },
+    "Resolucao_CONAMA_No_007-1991.pdf": {
+        "file_index": 241,
+        "n_pages": 1,
+        "n_words": 154,
+        "n_characters": 1948
+    },
+    "Resolucao_CONAMA_No_007-1993.pdf": {
+        "file_index": 242,
+        "n_pages": 8,
+        "n_words": 3305,
+        "n_characters": 26948
+    },
+    "Resolucao_CONAMA_No_007-1994.pdf": {
+        "file_index": 243,
+        "n_pages": 3,
+        "n_words": 919,
+        "n_characters": 7679
+    },
+    "Resolucao_CONAMA_No_007-1995.pdf": {
+        "file_index": 244,
+        "n_pages": 2,
+        "n_words": 300,
+        "n_characters": 2378
+    },
+    "Resolucao_CONAMA_No_007-1996.pdf": {
+        "file_index": 245,
+        "n_pages": 13,
+        "n_words": 3688,
+        "n_characters": 42931
+    },
+    "Resolucao_CONAMA_No_008-1987.pdf": {
+        "file_index": 248,
+        "n_pages": 2,
+        "n_words": 315,
+        "n_characters": 2479
+    },
+    "Resolucao_CONAMA_No_008-1988.pdf": {
+        "file_index": 249,
+        "n_pages": 2,
+        "n_words": 246,
+        "n_characters": 2169
+    },
+    "Resolucao_CONAMA_No_008-1989.pdf": {
+        "file_index": 250,
+        "n_pages": 1,
+        "n_words": 177,
+        "n_characters": 1450
+    },
+    "Resolucao_CONAMA_No_008-1990.pdf": {
+        "file_index": 251,
+        "n_pages": 2,
+        "n_words": 833,
+        "n_characters": 6882
+    },
+    "Resolucao_CONAMA_No_008-1991.pdf": {
+        "file_index": 252,
+        "n_pages": 1,
+        "n_words": 157,
+        "n_characters": 1132
+    },
+    "Resolucao_CONAMA_No_008-1993.pdf": {
+        "file_index": 253,
+        "n_pages": 15,
+        "n_words": 4177,
+        "n_characters": 37429
+    },
+    "Resolucao_CONAMA_No_008-1994.pdf": {
+        "file_index": 254,
+        "n_pages": 1,
+        "n_words": 249,
+        "n_characters": 2010
+    },
+    "Resolucao_CONAMA_No_008-1995.pdf": {
+        "file_index": 255,
+        "n_pages": 2,
+        "n_words": 325,
+        "n_characters": 2487
+    },
+    "Resolucao_CONAMA_No_008-1996.pdf": {
+        "file_index": 256,
+        "n_pages": 5,
+        "n_words": 1492,
+        "n_characters": 12032
+    },
+    "Resolucao_CONAMA_No_009-1987.pdf": {
+        "file_index": 259,
+        "n_pages": 1,
+        "n_words": 393,
+        "n_characters": 2933
+    },
+    "Resolucao_CONAMA_No_009-1988.pdf": {
+        "file_index": 260,
+        "n_pages": 1,
+        "n_words": 199,
+        "n_characters": 1634
+    },
+    "Resolucao_CONAMA_No_009-1989.pdf": {
+        "file_index": 261,
+        "n_pages": 1,
+        "n_words": 82,
+        "n_characters": 774
+    },
+    "Resolucao_CONAMA_No_009-1990.pdf": {
+        "file_index": 262,
+        "n_pages": 3,
+        "n_words": 859,
+        "n_characters": 6953
+    },
+    "Resolucao_CONAMA_No_009-1991.pdf": {
+        "file_index": 263,
+        "n_pages": 2,
+        "n_words": 189,
+        "n_characters": 2198
+    },
+    "Resolucao_CONAMA_No_009-1993.pdf": {
+        "file_index": 264,
+        "n_pages": 5,
+        "n_words": 1746,
+        "n_characters": 14870
+    },
+    "Resolucao_CONAMA_No_009-1994.pdf": {
+        "file_index": 265,
+        "n_pages": 8,
+        "n_words": 1743,
+        "n_characters": 14224
+    },
+    "Resolucao_CONAMA_No_009-1995.pdf": {
+        "file_index": 266,
+        "n_pages": 2,
+        "n_words": 311,
+        "n_characters": 2452
+    },
+    "Resolucao_CONAMA_No_009-1996.pdf": {
+        "file_index": 267,
+        "n_pages": 1,
+        "n_words": 351,
+        "n_characters": 2741
+    },
+    "Resolucao_CONAMA_No_010-1986.pdf": {
+        "file_index": 269,
+        "n_pages": 2,
+        "n_words": 186,
+        "n_characters": 1451
+    },
+    "Resolucao_CONAMA_No_010-1988.pdf": {
+        "file_index": 271,
+        "n_pages": 2,
+        "n_words": 690,
+        "n_characters": 5443
+    },
+    "Resolucao_CONAMA_No_010-1989.pdf": {
+        "file_index": 272,
+        "n_pages": 4,
+        "n_words": 840,
+        "n_characters": 7295
+    },
+    "Resolucao_CONAMA_No_010-1990.pdf": {
+        "file_index": 273,
+        "n_pages": 2,
+        "n_words": 758,
+        "n_characters": 6038
+    },
+    "Resolucao_CONAMA_No_010-1993.pdf": {
+        "file_index": 274,
+        "n_pages": 4,
+        "n_words": 1412,
+        "n_characters": 12166
+    },
+    "Resolucao_CONAMA_No_010-1994.pdf": {
+        "file_index": 275,
+        "n_pages": 2,
+        "n_words": 461,
+        "n_characters": 3511
+    },
+    "Resolucao_CONAMA_No_010-1995.pdf": {
+        "file_index": 276,
+        "n_pages": 2,
+        "n_words": 268,
+        "n_characters": 2125
+    },
+    "Resolucao_CONAMA_No_010-1996.pdf": {
+        "file_index": 277,
+        "n_pages": 2,
+        "n_words": 511,
+        "n_characters": 3972
+    },
+    "Resolucao_CONAMA_No_011-1984.pdf": {
+        "file_index": 278,
+        "n_pages": 1,
+        "n_words": 238,
+        "n_characters": 1784
+    },
+    "Resolucao_CONAMA_No_011-1986.pdf": {
+        "file_index": 279,
+        "n_pages": 1,
+        "n_words": 172,
+        "n_characters": 1426
+    },
+    "Resolucao_CONAMA_No_011-1987.pdf": {
+        "file_index": 280,
+        "n_pages": 1,
+        "n_words": 166,
+        "n_characters": 1472
+    },
+    "Resolucao_CONAMA_No_011-1988.pdf": {
+        "file_index": 281,
+        "n_pages": 1,
+        "n_words": 468,
+        "n_characters": 3400
+    },
+    "Resolucao_CONAMA_No_011-1989.pdf": {
+        "file_index": 282,
+        "n_pages": 1,
+        "n_words": 350,
+        "n_characters": 2622
+    },
+    "Resolucao_CONAMA_No_011-1990.pdf": {
+        "file_index": 283,
+        "n_pages": 2,
+        "n_words": 384,
+        "n_characters": 3062
+    },
+    "Resolucao_CONAMA_No_011-1995.pdf": {
+        "file_index": 286,
+        "n_pages": 2,
+        "n_words": 297,
+        "n_characters": 2329
+    },
+    "Resolucao_CONAMA_No_011-1996.pdf": {
+        "file_index": 287,
+        "n_pages": 1,
+        "n_words": 137,
+        "n_characters": 1176
+    },
+    "Resolucao_CONAMA_No_012-1984.pdf": {
+        "file_index": 288,
+        "n_pages": 1,
+        "n_words": 201,
+        "n_characters": 1427
+    },
+    "Resolucao_CONAMA_No_012-1986.pdf": {
+        "file_index": 289,
+        "n_pages": 2,
+        "n_words": 167,
+        "n_characters": 1481
+    },
+    "Resolucao_CONAMA_No_012-1988.pdf": {
+        "file_index": 291,
+        "n_pages": 1,
+        "n_words": 146,
+        "n_characters": 1101
+    },
+    "Resolucao_CONAMA_No_012-1989.pdf": {
+        "file_index": 292,
+        "n_pages": 1,
+        "n_words": 322,
+        "n_characters": 2413
+    },
+    "Resolucao_CONAMA_No_012-1990.pdf": {
+        "file_index": 293,
+        "n_pages": 1,
+        "n_words": 296,
+        "n_characters": 2415
+    },
+    "Resolucao_CONAMA_No_012-1993.pdf": {
+        "file_index": 294,
+        "n_pages": 2,
+        "n_words": 191,
+        "n_characters": 2809
+    },
+    "Resolucao_CONAMA_No_012-1994.pdf": {
+        "file_index": 295,
+        "n_pages": 2,
+        "n_words": 689,
+        "n_characters": 5795
+    },
+    "Resolucao_CONAMA_No_012-1995.pdf": {
+        "file_index": 296,
+        "n_pages": 2,
+        "n_words": 313,
+        "n_characters": 2442
+    },
+    "Resolucao_CONAMA_No_012-1996.pdf": {
+        "file_index": 297,
+        "n_pages": 1,
+        "n_words": 136,
+        "n_characters": 1165
+    },
+    "Resolucao_CONAMA_No_013-1986.pdf": {
+        "file_index": 299,
+        "n_pages": 2,
+        "n_words": 176,
+        "n_characters": 1452
+    },
+    "Resolucao_CONAMA_No_013-1987.pdf": {
+        "file_index": 300,
+        "n_pages": 1,
+        "n_words": 97,
+        "n_characters": 914
+    },
+    "Resolucao_CONAMA_No_013-1989.pdf": {
+        "file_index": 301,
+        "n_pages": 1,
+        "n_words": 133,
+        "n_characters": 1042
+    },
+    "Resolucao_CONAMA_No_013-1990.pdf": {
+        "file_index": 302,
+        "n_pages": 1,
+        "n_words": 212,
+        "n_characters": 1677
+    },
+    "Resolucao_CONAMA_No_013-1993.pdf": {
+        "file_index": 303,
+        "n_pages": 2,
+        "n_words": 230,
+        "n_characters": 2124
+    },
+    "Resolucao_CONAMA_No_013-1995.pdf": {
+        "file_index": 305,
+        "n_pages": 2,
+        "n_words": 738,
+        "n_characters": 6106
+    },
+    "Resolucao_CONAMA_No_013-1996.pdf": {
+        "file_index": 306,
+        "n_pages": 1,
+        "n_words": 133,
+        "n_characters": 1152
+    },
+    "Resolucao_CONAMA_No_014-1984.pdf": {
+        "file_index": 307,
+        "n_pages": 1,
+        "n_words": 186,
+        "n_characters": 1465
+    },
+    "Resolucao_CONAMA_No_014-1986.pdf": {
+        "file_index": 308,
+        "n_pages": 1,
+        "n_words": 130,
+        "n_characters": 1019
+    },
+    "Resolucao_CONAMA_No_014-1989.pdf": {
+        "file_index": 309,
+        "n_pages": 1,
+        "n_words": 295,
+        "n_characters": 2338
+    },
+    "Resolucao_CONAMA_No_014-1990.pdf": {
+        "file_index": 310,
+        "n_pages": 2,
+        "n_words": 314,
+        "n_characters": 2615
+    },
+    "Resolucao_CONAMA_No_014-1993.pdf": {
+        "file_index": 311,
+        "n_pages": 1,
+        "n_words": 159,
+        "n_characters": 1417
+    },
+    "Resolucao_CONAMA_No_014-1994.pdf": {
+        "file_index": 312,
+        "n_pages": 1,
+        "n_words": 240,
+        "n_characters": 1971
+    },
+    "Resolucao_CONAMA_No_014-1996.pdf": {
+        "file_index": 314,
+        "n_pages": 1,
+        "n_words": 137,
+        "n_characters": 1183
+    },
+    "Resolucao_CONAMA_No_015-1986.pdf": {
+        "file_index": 316,
+        "n_pages": 2,
+        "n_words": 212,
+        "n_characters": 1833
+    },
+    "Resolucao_CONAMA_No_015-1989.pdf": {
+        "file_index": 317,
+        "n_pages": 2,
+        "n_words": 305,
+        "n_characters": 2436
+    },
+    "Resolucao_CONAMA_No_015-1990.pdf": {
+        "file_index": 318,
+        "n_pages": 2,
+        "n_words": 285,
+        "n_characters": 2296
+    },
+    "Resolucao_CONAMA_No_015-1993.pdf": {
+        "file_index": 319,
+        "n_pages": 2,
+        "n_words": 341,
+        "n_characters": 2793
+    },
+    "Resolucao_CONAMA_No_015-1995.pdf": {
+        "file_index": 321,
+        "n_pages": 5,
+        "n_words": 1856,
+        "n_characters": 15088
+    },
+    "Resolucao_CONAMA_No_015-1996.pdf": {
+        "file_index": 322,
+        "n_pages": 1,
+        "n_words": 137,
+        "n_characters": 1218
+    },
+    "Resolucao_CONAMA_No_016-1986.pdf": {
+        "file_index": 324,
+        "n_pages": 2,
+        "n_words": 293,
+        "n_characters": 2215
+    },
+    "Resolucao_CONAMA_No_016-1989.pdf": {
+        "file_index": 325,
+        "n_pages": 6,
+        "n_words": 1007,
+        "n_characters": 9014
+    },
+    "Resolucao_CONAMA_No_016-1990.pdf": {
+        "file_index": 326,
+        "n_pages": 2,
+        "n_words": 291,
+        "n_characters": 2258
+    },
+    "Resolucao_CONAMA_No_016-1993.pdf": {
+        "file_index": 327,
+        "n_pages": 1,
+        "n_words": 316,
+        "n_characters": 2366
+    },
+    "Resolucao_CONAMA_No_016-1994.pdf": {
+        "file_index": 328,
+        "n_pages": 1,
+        "n_words": 260,
+        "n_characters": 1988
+    },
+    "Resolucao_CONAMA_No_016-1995.pdf": {
+        "file_index": 329,
+        "n_pages": 3,
+        "n_words": 974,
+        "n_characters": 7436
+    },
+    "Resolucao_CONAMA_No_016-1996.pdf": {
+        "file_index": 330,
+        "n_pages": 1,
+        "n_words": 138,
+        "n_characters": 1176
+    },
+    "Resolucao_CONAMA_No_017-1984.pdf": {
+        "file_index": 331,
+        "n_pages": 1,
+        "n_words": 214,
+        "n_characters": 1590
+    },
+    "Resolucao_CONAMA_No_017-1986.pdf": {
+        "file_index": 332,
+        "n_pages": 3,
+        "n_words": 293,
+        "n_characters": 2355
+    },
+    "Resolucao_CONAMA_No_017-1989.pdf": {
+        "file_index": 333,
+        "n_pages": 1,
+        "n_words": 191,
+        "n_characters": 1573
+    },
+    "Resolucao_CONAMA_No_017-1990.pdf": {
+        "file_index": 334,
+        "n_pages": 1,
+        "n_words": 127,
+        "n_characters": 1174
+    },
+    "Resolucao_CONAMA_No_017-1995.pdf": {
+        "file_index": 336,
+        "n_pages": 4,
+        "n_words": 1111,
+        "n_characters": 9986
+    },
+    "Resolucao_CONAMA_No_017-1996.pdf": {
+        "file_index": 337,
+        "n_pages": 1,
+        "n_words": 128,
+        "n_characters": 1902
+    },
+    "Resolucao_CONAMA_No_018-1986.pdf": {
+        "file_index": 338,
+        "n_pages": 13,
+        "n_words": 4883,
+        "n_characters": 38893
+    },
+    "Resolucao_CONAMA_No_018-1989.pdf": {
+        "file_index": 339,
+        "n_pages": 2,
+        "n_words": 843,
+        "n_characters": 6243
+    },
+    "Resolucao_CONAMA_No_018-1996.pdf": {
+        "file_index": 342,
+        "n_pages": 1,
+        "n_words": 128,
+        "n_characters": 1255
+    },
+    "Resolucao_CONAMA_No_019-1986.pdf": {
+        "file_index": 343,
+        "n_pages": 1,
+        "n_words": 118,
+        "n_characters": 885
+    },
+    "Resolucao_CONAMA_No_019-1989.pdf": {
+        "file_index": 344,
+        "n_pages": 1,
+        "n_words": 306,
+        "n_characters": 2519
+    },
+    "Resolucao_CONAMA_No_019-1996.pdf": {
+        "file_index": 347,
+        "n_pages": 1,
+        "n_words": 195,
+        "n_characters": 1474
+    },
+    "Resolucao_CONAMA_No_020-1986.pdf": {
+        "file_index": 348,
+        "n_pages": 20,
+        "n_words": 3428,
+        "n_characters": 34478
+    },
+    "Resolucao_CONAMA_No_020-1989.pdf": {
+        "file_index": 349,
+        "n_pages": 2,
+        "n_words": 231,
+        "n_characters": 1659
+    },
+    "Resolucao_CONAMA_No_020-1996.pdf": {
+        "file_index": 352,
+        "n_pages": 2,
+        "n_words": 652,
+        "n_characters": 5642
+    },
+    "Resolucao_CONAMA_No_021-1989.pdf": {
+        "file_index": 354,
+        "n_pages": 1,
+        "n_words": 114,
+        "n_characters": 1050
+    },
+    "Resolucao_CONAMA_No_021-1994.pdf": {
+        "file_index": 355,
+        "n_pages": 1,
+        "n_words": 181,
+        "n_characters": 1341
+    },
+    "Resolucao_CONAMA_No_021-1995.pdf": {
+        "file_index": 356,
+        "n_pages": 1,
+        "n_words": 151,
+        "n_characters": 1191
+    },
+    "Resolucao_CONAMA_No_021-1996.pdf": {
+        "file_index": 357,
+        "n_pages": 1,
+        "n_words": 137,
+        "n_characters": 1184
+    },
+    "Resolucao_CONAMA_No_022-1996.pdf": {
+        "file_index": 360,
+        "n_pages": 1,
+        "n_words": 89,
+        "n_characters": 849
+    },
+    "Resolucao_CONAMA_No_023-1994.pdf": {
+        "file_index": 362,
+        "n_pages": 3,
+        "n_words": 918,
+        "n_characters": 7690
+    },
+    "Resolucao_CONAMA_No_023-1996.pdf": {
+        "file_index": 363,
+        "n_pages": 28,
+        "n_words": 6719,
+        "n_characters": 56230
+    },
+    "Resolucao_CONAMA_No_024-1996.pdf": {
+        "file_index": 366,
+        "n_pages": 1,
+        "n_words": 235,
+        "n_characters": 1953
+    },
+    "Resolucao_CONAMA_No_025-1994.pdf": {
+        "file_index": 368,
+        "n_pages": 2,
+        "n_words": 642,
+        "n_characters": 5653
+    },
+    "Resolucao_CONAMA_No_025-1996.pdf": {
+        "file_index": 369,
+        "n_pages": 2,
+        "n_words": 313,
+        "n_characters": 2721
+    },
+    "Resolucao_CONAMA_No_026-1986.pdf": {
+        "file_index": 370,
+        "n_pages": 4,
+        "n_words": 484,
+        "n_characters": 4348
+    },
+    "Resolucao_CONAMA_No_026-1994.pdf": {
+        "file_index": 371,
+        "n_pages": 2,
+        "n_words": 723,
+        "n_characters": 7319
+    },
+    "Resolucao_CONAMA_No_026-1996.pdf": {
+        "file_index": 372,
+        "n_pages": 1,
+        "n_words": 131,
+        "n_characters": 1221
+    },
+    "Resolucao_CONAMA_No_027-1986.pdf": {
+        "file_index": 373,
+        "n_pages": 1,
+        "n_words": 330,
+        "n_characters": 2624
+    },
+    "Resolucao_CONAMA_No_027-1994.pdf": {
+        "file_index": 374,
+        "n_pages": 1,
+        "n_words": 356,
+        "n_characters": 2694
+    },
+    "Resolucao_CONAMA_No_028-1994.pdf": {
+        "file_index": 376,
+        "n_pages": 3,
+        "n_words": 885,
+        "n_characters": 9032
+    },
+    "Resolucao_CONAMA_No_029-1994.pdf": {
+        "file_index": 378,
+        "n_pages": 3,
+        "n_words": 982,
+        "n_characters": 10047
+    },
+    "Resolucao_CONAMA_No_030-1994.pdf": {
+        "file_index": 379,
+        "n_pages": 3,
+        "n_words": 926,
+        "n_characters": 9233
+    },
+    "Resolucao_CONAMA_No_031-1994.pdf": {
+        "file_index": 380,
+        "n_pages": 3,
+        "n_words": 814,
+        "n_characters": 7853
+    },
+    "Resolucao_CONAMA_No_032-1994.pdf": {
+        "file_index": 381,
+        "n_pages": 3,
+        "n_words": 959,
+        "n_characters": 9756
+    },
+    "Resolucao_CONAMA_No_033-1994.pdf": {
+        "file_index": 382,
+        "n_pages": 2,
+        "n_words": 659,
+        "n_characters": 6285
+    },
+    "Resolucao_CONAMA_No_034-1994.pdf": {
+        "file_index": 383,
+        "n_pages": 2,
+        "n_words": 752,
+        "n_characters": 6811
+    },
+    "Resolucao_CONAMA_No_036-1994.pdf": {
+        "file_index": 385,
+        "n_pages": 1,
+        "n_words": 240,
+        "n_characters": 1838
+    },
+    "Resolucao_CONAMA_No_225-1997.pdf": {
+        "file_index": 387,
+        "n_pages": 2,
+        "n_words": 394,
+        "n_characters": 3030
+    },
+    "Resolucao_CONAMA_No_226-1997.pdf": {
+        "file_index": 388,
+        "n_pages": 5,
+        "n_words": 1234,
+        "n_characters": 11570
+    },
+    "Resolucao_CONAMA_No_227-1997.pdf": {
+        "file_index": 389,
+        "n_pages": 2,
+        "n_words": 559,
+        "n_characters": 4393
+    },
+    "Resolucao_CONAMA_No_228-1997.pdf": {
+        "file_index": 390,
+        "n_pages": 2,
+        "n_words": 498,
+        "n_characters": 4008
+    },
+    "Resolucao_CONAMA_No_229-1997.pdf": {
+        "file_index": 391,
+        "n_pages": 2,
+        "n_words": 380,
+        "n_characters": 2947
+    },
+    "Resolucao_CONAMA_No_230-1997.pdf": {
+        "file_index": 392,
+        "n_pages": 2,
+        "n_words": 755,
+        "n_characters": 6281
+    },
+    "Resolucao_CONAMA_No_231-1997.pdf": {
+        "file_index": 393,
+        "n_pages": 2,
+        "n_words": 221,
+        "n_characters": 2074
+    },
+    "Resolucao_CONAMA_No_232-1997.pdf": {
+        "file_index": 394,
+        "n_pages": 1,
+        "n_words": 167,
+        "n_characters": 1325
+    },
+    "Resolucao_CONAMA_No_233-1997.pdf": {
+        "file_index": 395,
+        "n_pages": 3,
+        "n_words": 608,
+        "n_characters": 6272
+    },
+    "Resolucao_CONAMA_No_234-1997.pdf": {
+        "file_index": 396,
+        "n_pages": 1,
+        "n_words": 165,
+        "n_characters": 1887
+    },
+    "Resolucao_CONAMA_No_235-1998.pdf": {
+        "file_index": 398,
+        "n_pages": 2,
+        "n_words": 480,
+        "n_characters": 4765
+    },
+    "Resolucao_CONAMA_No_236-1997.pdf": {
+        "file_index": 399,
+        "n_pages": 2,
+        "n_words": 344,
+        "n_characters": 2806
+    },
+    "Resolucao_CONAMA_No_237-1997.pdf": {
+        "file_index": 400,
+        "n_pages": 9,
+        "n_words": 3238,
+        "n_characters": 27111
+    },
+    "Resolucao_CONAMA_No_238-1997.pdf": {
+        "file_index": 401,
+        "n_pages": 12,
+        "n_words": 5332,
+        "n_characters": 41158
+    },
+    "Resolucao_CONAMA_No_239-1998.pdf": {
+        "file_index": 402,
+        "n_pages": 3,
+        "n_words": 541,
+        "n_characters": 5874
+    },
+    "Resolucao_CONAMA_No_240-1998.pdf": {
+        "file_index": 403,
+        "n_pages": 1,
+        "n_words": 408,
+        "n_characters": 3158
+    },
+    "Resolucao_CONAMA_No_241-1998.pdf": {
+        "file_index": 404,
+        "n_pages": 1,
+        "n_words": 218,
+        "n_characters": 1618
+    },
+    "Resolucao_CONAMA_No_242-1998.pdf": {
+        "file_index": 405,
+        "n_pages": 1,
+        "n_words": 318,
+        "n_characters": 2431
+    },
+    "Resolucao_CONAMA_No_243-1998.pdf": {
+        "file_index": 406,
+        "n_pages": 2,
+        "n_words": 282,
+        "n_characters": 2376
+    },
+    "Resolucao_CONAMA_No_244-1998.pdf": {
+        "file_index": 407,
+        "n_pages": 1,
+        "n_words": 163,
+        "n_characters": 1314
+    },
+    "Resolucao_CONAMA_No_245-1998.pdf": {
+        "file_index": 408,
+        "n_pages": 2,
+        "n_words": 222,
+        "n_characters": 2073
+    },
+    "Resolucao_CONAMA_No_246-1998.pdf": {
+        "file_index": 409,
+        "n_pages": 2,
+        "n_words": 387,
+        "n_characters": 2998
+    },
+    "Resolucao_CONAMA_No_247-1998.pdf": {
+        "file_index": 410,
+        "n_pages": 4,
+        "n_words": 426,
+        "n_characters": 4798
+    },
+    "Resolucao_CONAMA_No_248-1999.pdf": {
+        "file_index": 411,
+        "n_pages": 3,
+        "n_words": 963,
+        "n_characters": 7708
+    },
+    "Resolucao_CONAMA_No_249-1999.pdf": {
+        "file_index": 412,
+        "n_pages": 20,
+        "n_words": 8319,
+        "n_characters": 66636
+    },
+    "Resolucao_CONAMA_No_250-1999.pdf": {
+        "file_index": 413,
+        "n_pages": 1,
+        "n_words": 189,
+        "n_characters": 1677
+    },
+    "Resolucao_CONAMA_No_251-1999.pdf": {
+        "file_index": 414,
+        "n_pages": 3,
+        "n_words": 1447,
+        "n_characters": 11104
+    },
+    "Resolucao_CONAMA_No_252-1999.pdf": {
+        "file_index": 415,
+        "n_pages": 6,
+        "n_words": 1986,
+        "n_characters": 15546
+    },
+    "Resolucao_CONAMA_No_253-1999.pdf": {
+        "file_index": 416,
+        "n_pages": 1,
+        "n_words": 164,
+        "n_characters": 1521
+    },
+    "Resolucao_CONAMA_No_254-1999.pdf": {
+        "file_index": 417,
+        "n_pages": 2,
+        "n_words": 482,
+        "n_characters": 3881
+    },
+    "Resolucao_CONAMA_No_255-1999.pdf": {
+        "file_index": 418,
+        "n_pages": 2,
+        "n_words": 275,
+        "n_characters": 3084
+    },
+    "Resolucao_CONAMA_No_256-1999.pdf": {
+        "file_index": 419,
+        "n_pages": 4,
+        "n_words": 1654,
+        "n_characters": 13020
+    },
+    "Resolucao_CONAMA_No_257-1999.pdf": {
+        "file_index": 420,
+        "n_pages": 4,
+        "n_words": 1236,
+        "n_characters": 10892
+    },
+    "Resolucao_CONAMA_No_258-1999.pdf": {
+        "file_index": 421,
+        "n_pages": 3,
+        "n_words": 1358,
+        "n_characters": 11158
+    },
+    "Resolucao_CONAMA_No_260-1999.pdf": {
+        "file_index": 422,
+        "n_pages": 1,
+        "n_words": 205,
+        "n_characters": 1616
+    },
+    "Resolucao_CONAMA_No_261-1999.pdf": {
+        "file_index": 423,
+        "n_pages": 10,
+        "n_words": 3045,
+        "n_characters": 40811
+    },
+    "Resolucao_CONAMA_No_263-1999.pdf": {
+        "file_index": 424,
+        "n_pages": 1,
+        "n_words": 167,
+        "n_characters": 1298
+    },
+    "Resolucao_CONAMA_No_264-1999.pdf": {
+        "file_index": 425,
+        "n_pages": 11,
+        "n_words": 3969,
+        "n_characters": 32762
+    },
+    "Resolucao_CONAMA_No_265-2000.pdf": {
+        "file_index": 426,
+        "n_pages": 2,
+        "n_words": 427,
+        "n_characters": 3329
+    },
+    "Resolucao_CONAMA_No_266-2000.pdf": {
+        "file_index": 427,
+        "n_pages": 4,
+        "n_words": 1166,
+        "n_characters": 9932
+    },
+    "Resolucao_CONAMA_No_267-2000.pdf": {
+        "file_index": 428,
+        "n_pages": 7,
+        "n_words": 1803,
+        "n_characters": 16160
+    },
+    "Resolucao_CONAMA_No_268-2000.pdf": {
+        "file_index": 429,
+        "n_pages": 1,
+        "n_words": 317,
+        "n_characters": 2616
+    },
+    "Resolucao_CONAMA_No_269-2000.pdf": {
+        "file_index": 430,
+        "n_pages": 16,
+        "n_words": 4769,
+        "n_characters": 43108
+    },
+    "Resolucao_CONAMA_No_270-2000.pdf": {
+        "file_index": 431,
+        "n_pages": 1,
+        "n_words": 148,
+        "n_characters": 1173
+    },
+    "Resolucao_CONAMA_No_271-2000.pdf": {
+        "file_index": 432,
+        "n_pages": 1,
+        "n_words": 166,
+        "n_characters": 1388
+    },
+    "Resolucao_CONAMA_No_272-2000.pdf": {
+        "file_index": 433,
+        "n_pages": 4,
+        "n_words": 1114,
+        "n_characters": 8987
+    },
+    "Resolucao_CONAMA_No_273-2000.pdf": {
+        "file_index": 434,
+        "n_pages": 10,
+        "n_words": 2885,
+        "n_characters": 27532
+    },
+    "Resolucao_CONAMA_No_274-2000.pdf": {
+        "file_index": 435,
+        "n_pages": 3,
+        "n_words": 1223,
+        "n_characters": 10160
+    },
+    "Resolucao_CONAMA_No_275-2001.pdf": {
+        "file_index": 436,
+        "n_pages": 1,
+        "n_words": 366,
+        "n_characters": 3048
+    },
+    "Resolucao_CONAMA_No_276-2001.pdf": {
+        "file_index": 437,
+        "n_pages": 1,
+        "n_words": 130,
+        "n_characters": 987
+    },
+    "Resolucao_CONAMA_No_277-2001.pdf": {
+        "file_index": 438,
+        "n_pages": 1,
+        "n_words": 139,
+        "n_characters": 1107
+    },
+    "Resolucao_CONAMA_No_278-2001.pdf": {
+        "file_index": 439,
+        "n_pages": 2,
+        "n_words": 639,
+        "n_characters": 5095
+    },
+    "Resolucao_CONAMA_No_279-2001.pdf": {
+        "file_index": 440,
+        "n_pages": 4,
+        "n_words": 1595,
+        "n_characters": 13207
+    },
+    "Resolucao_CONAMA_No_280-2001.pdf": {
+        "file_index": 441,
+        "n_pages": 1,
+        "n_words": 162,
+        "n_characters": 1245
+    },
+    "Resolucao_CONAMA_No_281-2001.pdf": {
+        "file_index": 442,
+        "n_pages": 1,
+        "n_words": 341,
+        "n_characters": 2621
+    },
+    "Resolucao_CONAMA_No_282-2001.pdf": {
+        "file_index": 443,
+        "n_pages": 6,
+        "n_words": 2246,
+        "n_characters": 18392
+    },
+    "Resolucao_CONAMA_No_283-2001.pdf": {
+        "file_index": 444,
+        "n_pages": 6,
+        "n_words": 1606,
+        "n_characters": 13597
+    },
+    "Resolucao_CONAMA_No_284-2001.pdf": {
+        "file_index": 445,
+        "n_pages": 4,
+        "n_words": 1237,
+        "n_characters": 10045
+    },
+    "Resolucao_CONAMA_No_286-2001.pdf": {
+        "file_index": 446,
+        "n_pages": 1,
+        "n_words": 356,
+        "n_characters": 2775
+    },
+    "Resolucao_CONAMA_No_287-2001.pdf": {
+        "file_index": 447,
+        "n_pages": 1,
+        "n_words": 259,
+        "n_characters": 2805
+    },
+    "Resolucao_CONAMA_No_289-2001.pdf": {
+        "file_index": 449,
+        "n_pages": 14,
+        "n_words": 3331,
+        "n_characters": 32896
+    },
+    "Resolucao_CONAMA_No_290-2001.pdf": {
+        "file_index": 450,
+        "n_pages": 2,
+        "n_words": 201,
+        "n_characters": 1742
+    },
+    "Resolucao_CONAMA_No_291-2001.pdf": {
+        "file_index": 451,
+        "n_pages": 5,
+        "n_words": 1797,
+        "n_characters": 14129
+    },
+    "Resolucao_CONAMA_No_292-2002.pdf": {
+        "file_index": 452,
+        "n_pages": 3,
+        "n_words": 1052,
+        "n_characters": 9612
+    },
+    "Resolucao_CONAMA_No_294-2001.pdf": {
+        "file_index": 454,
+        "n_pages": 10,
+        "n_words": 3273,
+        "n_characters": 29624
+    },
+    "Resolucao_CONAMA_No_295-2001.pdf": {
+        "file_index": 455,
+        "n_pages": 1,
+        "n_words": 199,
+        "n_characters": 1630
+    },
+    "Resolucao_CONAMA_No_296-2002.pdf": {
+        "file_index": 456,
+        "n_pages": 1,
+        "n_words": 158,
+        "n_characters": 1208
+    },
+    "Resolucao_CONAMA_No_297-2002.pdf": {
+        "file_index": 457,
+        "n_pages": 8,
+        "n_words": 2985,
+        "n_characters": 24423
+    },
+    "Resolucao_CONAMA_No_298-2002.pdf": {
+        "file_index": 458,
+        "n_pages": 1,
+        "n_words": 254,
+        "n_characters": 2059
+    },
+    "Resolucao_CONAMA_No_299-2001.pdf": {
+        "file_index": 459,
+        "n_pages": 4,
+        "n_words": 1451,
+        "n_characters": 11658
+    },
+    "Resolucao_CONAMA_No_300-2002.pdf": {
+        "file_index": 460,
+        "n_pages": 1,
+        "n_words": 352,
+        "n_characters": 2839
+    },
+    "Resolucao_CONAMA_No_301-2002.pdf": {
+        "file_index": 461,
+        "n_pages": 2,
+        "n_words": 548,
+        "n_characters": 5043
+    },
+    "Resolucao_CONAMA_No_302-2002.pdf": {
+        "file_index": 462,
+        "n_pages": 3,
+        "n_words": 1128,
+        "n_characters": 9092
+    },
+    "Resolucao_CONAMA_No_303-2002.pdf": {
+        "file_index": 463,
+        "n_pages": 3,
+        "n_words": 1354,
+        "n_characters": 10767
+    },
+    "Resolucao_CONAMA_No_305-2002.pdf": {
+        "file_index": 465,
+        "n_pages": 9,
+        "n_words": 3536,
+        "n_characters": 29948
+    },
+    "Resolucao_CONAMA_No_306-2002.pdf": {
+        "file_index": 466,
+        "n_pages": 7,
+        "n_words": 2773,
+        "n_characters": 22743
+    },
+    "Resolucao_CONAMA_No_307-2002.pdf": {
+        "file_index": 467,
+        "n_pages": 7,
+        "n_words": 2353,
+        "n_characters": 19553
+    },
+    "Resolucao_CONAMA_No_308-2002.pdf": {
+        "file_index": 468,
+        "n_pages": 3,
+        "n_words": 897,
+        "n_characters": 7350
+    },
+    "Resolucao_CONAMA_No_309-2002.pdf": {
+        "file_index": 469,
+        "n_pages": 2,
+        "n_words": 370,
+        "n_characters": 2996
+    },
+    "Resolucao_CONAMA_No_310-2002.pdf": {
+        "file_index": 470,
+        "n_pages": 6,
+        "n_words": 2041,
+        "n_characters": 18406
+    },
+    "Resolucao_CONAMA_No_311-2002.pdf": {
+        "file_index": 471,
+        "n_pages": 1,
+        "n_words": 199,
+        "n_characters": 1504
+    },
+    "Resolucao_CONAMA_No_312-2002.pdf": {
+        "file_index": 472,
+        "n_pages": 6,
+        "n_words": 1934,
+        "n_characters": 16664
+    },
+    "Resolucao_CONAMA_No_313-2002.pdf": {
+        "file_index": 473,
+        "n_pages": 15,
+        "n_words": 3706,
+        "n_characters": 35382
+    },
+    "Resolucao_CONAMA_No_314-2002.pdf": {
+        "file_index": 474,
+        "n_pages": 2,
+        "n_words": 498,
+        "n_characters": 4004
+    },
+    "Resolucao_CONAMA_No_315-2002.pdf": {
+        "file_index": 475,
+        "n_pages": 9,
+        "n_words": 3627,
+        "n_characters": 30226
+    },
+    "Resolucao_CONAMA_No_316-2002.pdf": {
+        "file_index": 476,
+        "n_pages": 14,
+        "n_words": 5101,
+        "n_characters": 43268
+    },
+    "Resolucao_CONAMA_No_317-2002.pdf": {
+        "file_index": 477,
+        "n_pages": 1,
+        "n_words": 466,
+        "n_characters": 3718
+    },
+    "Resolucao_CONAMA_No_320-2002.pdf": {
+        "file_index": 480,
+        "n_pages": 1,
+        "n_words": 143,
+        "n_characters": 1111
+    },
+    "Resolucao_CONAMA_No_321-2003.pdf": {
+        "file_index": 481,
+        "n_pages": 3,
+        "n_words": 519,
+        "n_characters": 4295
+    },
+    "Resolucao_CONAMA_No_322-2003.pdf": {
+        "file_index": 482,
+        "n_pages": 1,
+        "n_words": 155,
+        "n_characters": 1128
+    },
+    "Resolucao_CONAMA_No_323-2003.pdf": {
+        "file_index": 483,
+        "n_pages": 1,
+        "n_words": 235,
+        "n_characters": 1934
+    },
+    "Resolucao_CONAMA_No_324-2003.pdf": {
+        "file_index": 484,
+        "n_pages": 1,
+        "n_words": 245,
+        "n_characters": 2085
+    },
+    "Resolucao_CONAMA_No_325-2003.pdf": {
+        "file_index": 485,
+        "n_pages": 1,
+        "n_words": 245,
+        "n_characters": 2095
+    },
+    "Resolucao_CONAMA_No_326-2003.pdf": {
+        "file_index": 486,
+        "n_pages": 1,
+        "n_words": 271,
+        "n_characters": 2283
+    },
+    "Resolucao_CONAMA_No_327-2003.pdf": {
+        "file_index": 487,
+        "n_pages": 1,
+        "n_words": 297,
+        "n_characters": 2503
+    },
+    "Resolucao_CONAMA_No_328-2003.pdf": {
+        "file_index": 488,
+        "n_pages": 1,
+        "n_words": 240,
+        "n_characters": 1986
+    },
+    "Resolucao_CONAMA_No_329-2003.pdf": {
+        "file_index": 489,
+        "n_pages": 1,
+        "n_words": 266,
+        "n_characters": 2292
+    },
+    "Resolucao_CONAMA_No_330-2003.pdf": {
+        "file_index": 490,
+        "n_pages": 1,
+        "n_words": 269,
+        "n_characters": 2222
+    },
+    "Resolucao_CONAMA_No_331-2003.pdf": {
+        "file_index": 491,
+        "n_pages": 1,
+        "n_words": 268,
+        "n_characters": 2178
+    },
+    "Resolucao_CONAMA_No_332-2003.pdf": {
+        "file_index": 492,
+        "n_pages": 1,
+        "n_words": 218,
+        "n_characters": 1848
+    },
+    "Resolucao_CONAMA_No_333-2003.pdf": {
+        "file_index": 493,
+        "n_pages": 1,
+        "n_words": 252,
+        "n_characters": 2093
+    },
+    "Resolucao_CONAMA_No_334-2003.pdf": {
+        "file_index": 494,
+        "n_pages": 6,
+        "n_words": 1707,
+        "n_characters": 14068
+    },
+    "Resolucao_CONAMA_No_335-2003.pdf": {
+        "file_index": 495,
+        "n_pages": 5,
+        "n_words": 1891,
+        "n_characters": 15807
+    },
+    "Resolucao_CONAMA_No_336-2003.pdf": {
+        "file_index": 496,
+        "n_pages": 1,
+        "n_words": 157,
+        "n_characters": 1137
+    },
+    "Resolucao_CONAMA_No_337-2003.pdf": {
+        "file_index": 497,
+        "n_pages": 1,
+        "n_words": 107,
+        "n_characters": 807
+    },
+    "Resolucao_CONAMA_No_338-2003.pdf": {
+        "file_index": 498,
+        "n_pages": 1,
+        "n_words": 178,
+        "n_characters": 1319
+    },
+    "Resolucao_CONAMA_No_339-2003.pdf": {
+        "file_index": 499,
+        "n_pages": 4,
+        "n_words": 1429,
+        "n_characters": 11592
+    },
+    "Resolucao_CONAMA_No_340-2003.pdf": {
+        "file_index": 500,
+        "n_pages": 2,
+        "n_words": 856,
+        "n_characters": 6625
+    },
+    "Resolucao_CONAMA_No_341-2003.pdf": {
+        "file_index": 501,
+        "n_pages": 2,
+        "n_words": 944,
+        "n_characters": 7596
+    },
+    "Resolucao_CONAMA_No_342-2003.pdf": {
+        "file_index": 502,
+        "n_pages": 2,
+        "n_words": 641,
+        "n_characters": 5385
+    },
+    "Resolucao_CONAMA_No_343-2004.pdf": {
+        "file_index": 503,
+        "n_pages": 1,
+        "n_words": 125,
+        "n_characters": 989
+    },
+    "Resolucao_CONAMA_No_344-2004.pdf": {
+        "file_index": 504,
+        "n_pages": 9,
+        "n_words": 2505,
+        "n_characters": 21394
+    },
+    "Resolucao_CONAMA_No_345-2004.pdf": {
+        "file_index": 505,
+        "n_pages": 1,
+        "n_words": 134,
+        "n_characters": 968
+    },
+    "Resolucao_CONAMA_No_346-2004.pdf": {
+        "file_index": 506,
+        "n_pages": 2,
+        "n_words": 749,
+        "n_characters": 5676
+    },
+    "Resolucao_CONAMA_No_347-2004.pdf": {
+        "file_index": 507,
+        "n_pages": 4,
+        "n_words": 1458,
+        "n_characters": 12548
+    },
+    "Resolucao_CONAMA_No_348-2004.pdf": {
+        "file_index": 508,
+        "n_pages": 1,
+        "n_words": 334,
+        "n_characters": 2548
+    },
+    "Resolucao_CONAMA_No_349-2004.pdf": {
+        "file_index": 509,
+        "n_pages": 5,
+        "n_words": 1847,
+        "n_characters": 15589
+    },
+    "Resolucao_CONAMA_No_350-2004.pdf": {
+        "file_index": 510,
+        "n_pages": 4,
+        "n_words": 1463,
+        "n_characters": 11874
+    },
+    "Resolucao_CONAMA_No_351-2004.pdf": {
+        "file_index": 511,
+        "n_pages": 1,
+        "n_words": 100,
+        "n_characters": 789
+    },
+    "Resolucao_CONAMA_No_352-2004.pdf": {
+        "file_index": 512,
+        "n_pages": 1,
+        "n_words": 111,
+        "n_characters": 872
+    },
+    "Resolucao_CONAMA_No_353-2004.pdf": {
+        "file_index": 513,
+        "n_pages": 1,
+        "n_words": 138,
+        "n_characters": 1024
+    },
+    "Resolucao_CONAMA_No_354-2004.pdf": {
+        "file_index": 514,
+        "n_pages": 3,
+        "n_words": 1100,
+        "n_characters": 8660
+    },
+    "Resolucao_CONAMA_No_355-2004.pdf": {
+        "file_index": 515,
+        "n_pages": 1,
+        "n_words": 143,
+        "n_characters": 1103
+    },
+    "Resolucao_CONAMA_No_356-2004.pdf": {
+        "file_index": 516,
+        "n_pages": 1,
+        "n_words": 145,
+        "n_characters": 1124
+    },
+    "Resolucao_CONAMA_No_357-2005.pdf": {
+        "file_index": 517,
+        "n_pages": 27,
+        "n_words": 6762,
+        "n_characters": 62385
+    },
+    "Resolucao_CONAMA_No_358-2005.pdf": {
+        "file_index": 518,
+        "n_pages": 8,
+        "n_words": 3444,
+        "n_characters": 28705
+    },
+    "Resolucao_CONAMA_No_359-2005.pdf": {
+        "file_index": 519,
+        "n_pages": 4,
+        "n_words": 1268,
+        "n_characters": 10002
+    },
+    "Resolucao_CONAMA_No_360-2005.pdf": {
+        "file_index": 520,
+        "n_pages": 5,
+        "n_words": 724,
+        "n_characters": 7539
+    },
+    "Resolucao_CONAMA_No_361-2005.pdf": {
+        "file_index": 521,
+        "n_pages": 1,
+        "n_words": 124,
+        "n_characters": 940
+    },
+    "Resolucao_CONAMA_No_362-2005.pdf": {
+        "file_index": 522,
+        "n_pages": 14,
+        "n_words": 3807,
+        "n_characters": 32538
+    },
+    "Resolucao_CONAMA_No_363-2005.pdf": {
+        "file_index": 523,
+        "n_pages": 1,
+        "n_words": 133,
+        "n_characters": 1005
+    },
+    "Resolucao_CONAMA_No_364-2005.pdf": {
+        "file_index": 524,
+        "n_pages": 1,
+        "n_words": 124,
+        "n_characters": 947
+    },
+    "Resolucao_CONAMA_No_365-2005.pdf": {
+        "file_index": 525,
+        "n_pages": 1,
+        "n_words": 132,
+        "n_characters": 988
+    },
+    "Resolucao_CONAMA_No_366-2005.pdf": {
+        "file_index": 526,
+        "n_pages": 1,
+        "n_words": 129,
+        "n_characters": 1008
+    },
+    "Resolucao_CONAMA_No_367-2006.pdf": {
+        "file_index": 527,
+        "n_pages": 1,
+        "n_words": 107,
+        "n_characters": 794
+    },
+    "Resolucao_CONAMA_No_368-2006.pdf": {
+        "file_index": 528,
+        "n_pages": 2,
+        "n_words": 500,
+        "n_characters": 4677
+    },
+    "Resolucao_CONAMA_No_369-2006.pdf": {
+        "file_index": 529,
+        "n_pages": 8,
+        "n_words": 3524,
+        "n_characters": 28567
+    },
+    "Resolucao_CONAMA_No_370-2006.pdf": {
+        "file_index": 530,
+        "n_pages": 1,
+        "n_words": 154,
+        "n_characters": 1149
+    },
+    "Resolucao_CONAMA_No_371-2006.pdf": {
+        "file_index": 531,
+        "n_pages": 4,
+        "n_words": 1618,
+        "n_characters": 12991
+    },
+    "Resolucao_CONAMA_No_372-2006.pdf": {
+        "file_index": 532,
+        "n_pages": 1,
+        "n_words": 207,
+        "n_characters": 2211
+    },
+    "Resolucao_CONAMA_No_373-2006.pdf": {
+        "file_index": 533,
+        "n_pages": 2,
+        "n_words": 807,
+        "n_characters": 6222
+    },
+    "Resolucao_CONAMA_No_374-2006.pdf": {
+        "file_index": 534,
+        "n_pages": 1,
+        "n_words": 133,
+        "n_characters": 1025
+    },
+    "Resolucao_CONAMA_No_375-2006.pdf": {
+        "file_index": 535,
+        "n_pages": 25,
+        "n_words": 9288,
+        "n_characters": 75475
+    },
+    "Resolucao_CONAMA_No_376-2006.pdf": {
+        "file_index": 536,
+        "n_pages": 5,
+        "n_words": 723,
+        "n_characters": 7568
+    },
+    "Resolucao_CONAMA_No_377-2006.pdf": {
+        "file_index": 537,
+        "n_pages": 3,
+        "n_words": 892,
+        "n_characters": 7090
+    },
+    "Resolucao_CONAMA_No_378-2006.pdf": {
+        "file_index": 538,
+        "n_pages": 2,
+        "n_words": 527,
+        "n_characters": 4036
+    },
+    "Resolucao_CONAMA_No_379-2006.pdf": {
+        "file_index": 539,
+        "n_pages": 5,
+        "n_words": 1648,
+        "n_characters": 13997
+    },
+    "Resolucao_CONAMA_No_380-2006.pdf": {
+        "file_index": 540,
+        "n_pages": 2,
+        "n_words": 901,
+        "n_characters": 6671
+    },
+    "Resolucao_CONAMA_No_381-2006.pdf": {
+        "file_index": 541,
+        "n_pages": 3,
+        "n_words": 1016,
+        "n_characters": 8219
+    },
+    "Resolucao_CONAMA_No_382-2006.pdf": {
+        "file_index": 542,
+        "n_pages": 53,
+        "n_words": 10954,
+        "n_characters": 90444
+    },
+    "Resolucao_CONAMA_No_383-2006.pdf": {
+        "file_index": 543,
+        "n_pages": 1,
+        "n_words": 127,
+        "n_characters": 974
+    },
+    "Resolucao_CONAMA_No_384-2006.pdf": {
+        "file_index": 544,
+        "n_pages": 7,
+        "n_words": 2395,
+        "n_characters": 21449
+    },
+    "Resolucao_CONAMA_No_385-2006.pdf": {
+        "file_index": 545,
+        "n_pages": 2,
+        "n_words": 597,
+        "n_characters": 4981
+    },
+    "Resolucao_CONAMA_No_386-2006.pdf": {
+        "file_index": 546,
+        "n_pages": 1,
+        "n_words": 266,
+        "n_characters": 2239
+    },
+    "Resolucao_CONAMA_No_387-2006.pdf": {
+        "file_index": 547,
+        "n_pages": 4,
+        "n_words": 1820,
+        "n_characters": 14278
+    },
+    "Resolucao_CONAMA_No_388-2007.pdf": {
+        "file_index": 548,
+        "n_pages": 2,
+        "n_words": 790,
+        "n_characters": 5859
+    },
+    "Resolucao_CONAMA_No_389-2007.pdf": {
+        "file_index": 549,
+        "n_pages": 1,
+        "n_words": 114,
+        "n_characters": 863
+    },
+    "Resolucao_CONAMA_No_390-2007.pdf": {
+        "file_index": 550,
+        "n_pages": 3,
+        "n_words": 752,
+        "n_characters": 7464
+    },
+    "Resolucao_CONAMA_No_391-2007.pdf": {
+        "file_index": 551,
+        "n_pages": 2,
+        "n_words": 709,
+        "n_characters": 7228
+    },
+    "Resolucao_CONAMA_No_392-2007.pdf": {
+        "file_index": 552,
+        "n_pages": 4,
+        "n_words": 1268,
+        "n_characters": 15035
+    },
+    "Resolucao_CONAMA_No_393-2007.pdf": {
+        "file_index": 553,
+        "n_pages": 3,
+        "n_words": 1300,
+        "n_characters": 10277
+    },
+    "Resolucao_CONAMA_No_394-2007.pdf": {
+        "file_index": 554,
+        "n_pages": 2,
+        "n_words": 853,
+        "n_characters": 6759
+    },
+    "Resolucao_CONAMA_No_395-2007.pdf": {
+        "file_index": 555,
+        "n_pages": 1,
+        "n_words": 156,
+        "n_characters": 1150
+    },
+    "Resolucao_CONAMA_No_396-2008.pdf": {
+        "file_index": 556,
+        "n_pages": 11,
+        "n_words": 3542,
+        "n_characters": 32025
+    },
+    "Resolucao_CONAMA_No_397-2008.pdf": {
+        "file_index": 557,
+        "n_pages": 3,
+        "n_words": 490,
+        "n_characters": 4941
+    },
+    "Resolucao_CONAMA_No_398-2008.pdf": {
+        "file_index": 558,
+        "n_pages": 17,
+        "n_words": 6251,
+        "n_characters": 54703
+    },
+    "Resolucao_CONAMA_No_400-2008.pdf": {
+        "file_index": 560,
+        "n_pages": 2,
+        "n_words": 472,
+        "n_characters": 3688
+    },
+    "Resolucao_CONAMA_No_401-2008.pdf": {
+        "file_index": 561,
+        "n_pages": 6,
+        "n_words": 1911,
+        "n_characters": 15941
+    },
+    "Resolucao_CONAMA_No_402-2008.pdf": {
+        "file_index": 562,
+        "n_pages": 1,
+        "n_words": 235,
+        "n_characters": 2038
+    },
+    "Resolucao_CONAMA_No_403-2008.pdf": {
+        "file_index": 563,
+        "n_pages": 7,
+        "n_words": 1968,
+        "n_characters": 15262
+    },
+    "Resolucao_CONAMA_No_404-2008.pdf": {
+        "file_index": 564,
+        "n_pages": 3,
+        "n_words": 983,
+        "n_characters": 8026
+    },
+    "Resolucao_CONAMA_No_405-2009.pdf": {
+        "file_index": 565,
+        "n_pages": 1,
+        "n_words": 154,
+        "n_characters": 1193
+    },
+    "Resolucao_CONAMA_No_406-2009.pdf": {
+        "file_index": 566,
+        "n_pages": 5,
+        "n_words": 1612,
+        "n_characters": 12485
+    },
+    "Resolucao_CONAMA_No_407-2009.pdf": {
+        "file_index": 567,
+        "n_pages": 1,
+        "n_words": 159,
+        "n_characters": 1176
+    },
+    "Resolucao_CONAMA_No_408-2009.pdf": {
+        "file_index": 568,
+        "n_pages": 2,
+        "n_words": 617,
+        "n_characters": 4862
+    },
+    "Resolucao_CONAMA_No_410-2009.pdf": {
+        "file_index": 570,
+        "n_pages": 1,
+        "n_words": 154,
+        "n_characters": 1132
+    },
+    "Resolucao_CONAMA_No_411-2009.pdf": {
+        "file_index": 571,
+        "n_pages": 16,
+        "n_words": 5350,
+        "n_characters": 45178
+    },
+    "Resolucao_CONAMA_No_412-2009.pdf": {
+        "file_index": 572,
+        "n_pages": 3,
+        "n_words": 1094,
+        "n_characters": 9398
+    },
+    "Resolucao_CONAMA_No_413-2009.pdf": {
+        "file_index": 573,
+        "n_pages": 19,
+        "n_words": 5123,
+        "n_characters": 44401
+    },
+    "Resolucao_CONAMA_No_414-2009.pdf": {
+        "file_index": 574,
+        "n_pages": 3,
+        "n_words": 972,
+        "n_characters": 7621
+    },
+    "Resolucao_CONAMA_No_415-2009.pdf": {
+        "file_index": 575,
+        "n_pages": 7,
+        "n_words": 2150,
+        "n_characters": 17692
+    },
+    "Resolucao_CONAMA_No_416-2009.pdf": {
+        "file_index": 576,
+        "n_pages": 4,
+        "n_words": 1733,
+        "n_characters": 13744
+    },
+    "Resolucao_CONAMA_No_417-2009.pdf": {
+        "file_index": 577,
+        "n_pages": 5,
+        "n_words": 1512,
+        "n_characters": 14272
+    },
+    "Resolucao_CONAMA_No_418-2009.pdf": {
+        "file_index": 578,
+        "n_pages": 11,
+        "n_words": 4041,
+        "n_characters": 31317
+    },
+    "Resolucao_CONAMA_No_419-2009.pdf": {
+        "file_index": 579,
+        "n_pages": 1,
+        "n_words": 157,
+        "n_characters": 1239
+    },
+    "Resolucao_CONAMA_No_420-2009.pdf": {
+        "file_index": 580,
+        "n_pages": 20,
+        "n_words": 3924,
+        "n_characters": 41383
+    },
+    "Resolucao_CONAMA_No_421-2010.pdf": {
+        "file_index": 581,
+        "n_pages": 1,
+        "n_words": 344,
+        "n_characters": 2586
+    },
+    "Resolucao_CONAMA_No_422-2010.pdf": {
+        "file_index": 582,
+        "n_pages": 2,
+        "n_words": 660,
+        "n_characters": 5529
+    },
+    "Resolucao_CONAMA_No_423-2010.pdf": {
+        "file_index": 583,
+        "n_pages": 12,
+        "n_words": 2634,
+        "n_characters": 43444
+    },
+    "Resolucao_CONAMA_No_425-2010.pdf": {
+        "file_index": 585,
+        "n_pages": 2,
+        "n_words": 537,
+        "n_characters": 4274
+    },
+    "Resolucao_CONAMA_No_427-2010.pdf": {
+        "file_index": 587,
+        "n_pages": 1,
+        "n_words": 148,
+        "n_characters": 1118
+    },
+    "Resolucao_CONAMA_No_429-2011.pdf": {
+        "file_index": 589,
+        "n_pages": 4,
+        "n_words": 1060,
+        "n_characters": 8579
+    },
+    "Resolucao_CONAMA_No_430-2011.pdf": {
+        "file_index": 590,
+        "n_pages": 9,
+        "n_words": 3306,
+        "n_characters": 26892
+    },
+    "Resolucao_CONAMA_No_432-2011.pdf": {
+        "file_index": 592,
+        "n_pages": 4,
+        "n_words": 1218,
+        "n_characters": 9861
+    },
+    "Resolucao_CONAMA_No_433-2011.pdf": {
+        "file_index": 593,
+        "n_pages": 8,
+        "n_words": 2170,
+        "n_characters": 19474
+    },
+    "Resolucao_CONAMA_No_434-2011.pdf": {
+        "file_index": 594,
+        "n_pages": 1,
+        "n_words": 160,
+        "n_characters": 1258
+    },
+    "Resolucao_CONAMA_No_436-2011.pdf": {
+        "file_index": 596,
+        "n_pages": 42,
+        "n_words": 11791,
+        "n_characters": 95861
+    },
+    "Resolucao_CONAMA_No_437-2012.pdf": {
+        "file_index": 597,
+        "n_pages": 10,
+        "n_words": 2450,
+        "n_characters": 50861
+    },
+    "Resolucao_CONAMA_No_438-2012.pdf": {
+        "file_index": 598,
+        "n_pages": 13,
+        "n_words": 3266,
+        "n_characters": 68849
+    },
+    "Resolucao_CONAMA_No_439-2012.pdf": {
+        "file_index": 599,
+        "n_pages": 5,
+        "n_words": 1079,
+        "n_characters": 20394
+    },
+    "Resolucao_CONAMA_No_440-2012.pdf": {
+        "file_index": 600,
+        "n_pages": 8,
+        "n_words": 2103,
+        "n_characters": 42382
+    },
+    "Resolucao_CONAMA_No_441-2012.pdf": {
+        "file_index": 601,
+        "n_pages": 9,
+        "n_words": 2295,
+        "n_characters": 47663
+    },
+    "Resolucao_CONAMA_No_442-2012.pdf": {
+        "file_index": 602,
+        "n_pages": 4,
+        "n_words": 913,
+        "n_characters": 17092
+    },
+    "Resolucao_CONAMA_No_443-2012.pdf": {
+        "file_index": 603,
+        "n_pages": 3,
+        "n_words": 524,
+        "n_characters": 8165
+    },
+    "Resolucao_CONAMA_No_444-2012.pdf": {
+        "file_index": 604,
+        "n_pages": 3,
+        "n_words": 658,
+        "n_characters": 11230
+    },
+    "Resolucao_CONAMA_No_445-2012.pdf": {
+        "file_index": 605,
+        "n_pages": 4,
+        "n_words": 776,
+        "n_characters": 14271
+    },
+    "Resolucao_CONAMA_No_446-2012.pdf": {
+        "file_index": 606,
+        "n_pages": 4,
+        "n_words": 815,
+        "n_characters": 14448
+    },
+    "Resolucao_CONAMA_No_447-2012.pdf": {
+        "file_index": 607,
+        "n_pages": 10,
+        "n_words": 2598,
+        "n_characters": 54143
+    },
+    "Resolucao_CONAMA_No_448-2012.pdf": {
+        "file_index": 608,
+        "n_pages": 2,
+        "n_words": 797,
+        "n_characters": 7257
+    },
+    "Resolucao_CONAMA_No_449-2012.pdf": {
+        "file_index": 609,
+        "n_pages": 1,
+        "n_words": 126,
+        "n_characters": 1208
+    },
+    "Resolucao_CONAMA_No_450-2012.pdf": {
+        "file_index": 610,
+        "n_pages": 2,
+        "n_words": 1001,
+        "n_characters": 12185
+    },
+    "Resolucao_CONAMA_No_451-2012.pdf": {
+        "file_index": 611,
+        "n_pages": 2,
+        "n_words": 389,
+        "n_characters": 2798
+    },
+    "Resolucao_CONAMA_No_452-2012.pdf": {
+        "file_index": 612,
+        "n_pages": 12,
+        "n_words": 3611,
+        "n_characters": 30436
+    },
+    "Resolucao_CONAMA_No_453-2012.pdf": {
+        "file_index": 613,
+        "n_pages": 6,
+        "n_words": 1420,
+        "n_characters": 28600
+    },
+    "Resolucao_CONAMA_No_454-2012.pdf": {
+        "file_index": 614,
+        "n_pages": 17,
+        "n_words": 5285,
+        "n_characters": 43817
+    },
+    "Resolucao_CONAMA_No_455-2012.pdf": {
+        "file_index": 615,
+        "n_pages": 1,
+        "n_words": 129,
+        "n_characters": 969
+    },
+    "Resolucao_CONAMA_No_456-2013.pdf": {
+        "file_index": 616,
+        "n_pages": 1,
+        "n_words": 155,
+        "n_characters": 1220
+    },
+    "Resolucao_CONAMA_No_457-2013.pdf": {
+        "file_index": 617,
+        "n_pages": 8,
+        "n_words": 2696,
+        "n_characters": 22141
+    },
+    "Resolucao_CONAMA_No_458-2013.pdf": {
+        "file_index": 618,
+        "n_pages": 4,
+        "n_words": 1039,
+        "n_characters": 9506
+    },
+    "Resolucao_CONAMA_No_460-2013.pdf": {
+        "file_index": 620,
+        "n_pages": 1,
+        "n_words": 261,
+        "n_characters": 2066
+    },
+    "Resolucao_CONAMA_No_461-2014.pdf": {
+        "file_index": 621,
+        "n_pages": 1,
+        "n_words": 125,
+        "n_characters": 958
+    },
+    "Resolucao_CONAMA_No_462-2014.pdf": {
+        "file_index": 622,
+        "n_pages": 21,
+        "n_words": 5751,
+        "n_characters": 50276
+    },
+    "Resolucao_CONAMA_No_463-2014.pdf": {
+        "file_index": 623,
+        "n_pages": 2,
+        "n_words": 725,
+        "n_characters": 5990
+    },
+    "Resolucao_CONAMA_No_464-2014.pdf": {
+        "file_index": 624,
+        "n_pages": 1,
+        "n_words": 110,
+        "n_characters": 824
+    },
+    "Resolucao_CONAMA_No_465-2014.pdf": {
+        "file_index": 625,
+        "n_pages": 7,
+        "n_words": 1748,
+        "n_characters": 14693
+    },
+    "Resolucao_CONAMA_No_466-2015.pdf": {
+        "file_index": 626,
+        "n_pages": 8,
+        "n_words": 2280,
+        "n_characters": 17437
+    },
+    "Resolucao_CONAMA_No_467-2015.pdf": {
+        "file_index": 627,
+        "n_pages": 5,
+        "n_words": 1502,
+        "n_characters": 12776
+    },
+    "Resolucao_CONAMA_No_470-2015.pdf": {
+        "file_index": 630,
+        "n_pages": 18,
+        "n_words": 4455,
+        "n_characters": 38985
+    },
+    "Resolucao_CONAMA_No_471-2015.pdf": {
+        "file_index": 631,
+        "n_pages": 1,
+        "n_words": 99,
+        "n_characters": 805
+    },
+    "Resolucao_CONAMA_No_472-2015.pdf": {
+        "file_index": 632,
+        "n_pages": 10,
+        "n_words": 2137,
+        "n_characters": 19365
+    },
+    "Resolucao_CONAMA_No_474-2016.pdf": {
+        "file_index": 634,
+        "n_pages": 7,
+        "n_words": 1715,
+        "n_characters": 14997
+    },
+    "Resolucao_CONAMA_No_475-2016.pdf": {
+        "file_index": 635,
+        "n_pages": 1,
+        "n_words": 121,
+        "n_characters": 1222
+    },
+    "Resolucao_CONAMA_No_476-2016.pdf": {
+        "file_index": 636,
+        "n_pages": 1,
+        "n_words": 107,
+        "n_characters": 1127
+    },
+    "Resolucao_CONAMA_No_477-2016.pdf": {
+        "file_index": 637,
+        "n_pages": 1,
+        "n_words": 120,
+        "n_characters": 1271
+    },
+    "Resolucao_CONAMA_No_478-2016.pdf": {
+        "file_index": 638,
+        "n_pages": 1,
+        "n_words": 103,
+        "n_characters": 825
+    },
+    "Resolucao_CONAMA_No_479-2017.pdf": {
+        "file_index": 639,
+        "n_pages": 8,
+        "n_words": 1957,
+        "n_characters": 16683
+    },
+    "Resolucao_CONAMA_No_480-2017.pdf": {
+        "file_index": 640,
+        "n_pages": 1,
+        "n_words": 274,
+        "n_characters": 2047
+    },
+    "Resolucao_CONAMA_No_481-2017.pdf": {
+        "file_index": 641,
+        "n_pages": 4,
+        "n_words": 1225,
+        "n_characters": 10246
+    },
+    "Resolucao_CONAMA_No_482-2017.pdf": {
+        "file_index": 642,
+        "n_pages": 22,
+        "n_words": 5464,
+        "n_characters": 45276
+    },
+    "Resolucao_CONAMA_No_483-2017.pdf": {
+        "file_index": 643,
+        "n_pages": 1,
+        "n_words": 139,
+        "n_characters": 1070
+    },
+    "Resolucao_CONAMA_No_484-2018.pdf": {
+        "file_index": 644,
+        "n_pages": 1,
+        "n_words": 294,
+        "n_characters": 2743
+    },
+    "Resolucao_CONAMA_No_485-2018.pdf": {
+        "file_index": 645,
+        "n_pages": 1,
+        "n_words": 125,
+        "n_characters": 1397
+    },
+    "Resolucao_CONAMA_No_486-2018.pdf": {
+        "file_index": 646,
+        "n_pages": 1,
+        "n_words": 150,
+        "n_characters": 1339
+    },
+    "Resolucao_CONAMA_No_487-2018.pdf": {
+        "file_index": 647,
+        "n_pages": 8,
+        "n_words": 2155,
+        "n_characters": 17270
+    },
+    "Resolucao_CONAMA_No_488-2018.pdf": {
+        "file_index": 648,
+        "n_pages": 1,
+        "n_words": 189,
+        "n_characters": 1507
+    },
+    "Resolucao_CONAMA_No_489-2018.pdf": {
+        "file_index": 649,
+        "n_pages": 7,
+        "n_words": 2539,
+        "n_characters": 21012
+    },
+    "Resolucao_CONAMA_No_490-2018.pdf": {
+        "file_index": 650,
+        "n_pages": 13,
+        "n_words": 3677,
+        "n_characters": 30083
+    },
+    "Resolucao_CONAMA_No_491-2018.pdf": {
+        "file_index": 651,
+        "n_pages": 7,
+        "n_words": 1623,
+        "n_characters": 13859
+    },
+    "Resolucao_CONAMA_No_492-2018.pdf": {
+        "file_index": 652,
+        "n_pages": 13,
+        "n_words": 4691,
+        "n_characters": 37667
+    },
+    "Resolucao_CONAMA_No_493-2019.pdf": {
+        "file_index": 653,
+        "n_pages": 7,
+        "n_words": 2289,
+        "n_characters": 18174
+    },
+    "Resolucao_CONAMA_No_494-2020.pdf": {
+        "file_index": 654,
+        "n_pages": 2,
+        "n_words": 440,
+        "n_characters": 3404
+    },
+    "Resolucao_CONAMA_No_495-2020.pdf": {
+        "file_index": 655,
+        "n_pages": 2,
+        "n_words": 387,
+        "n_characters": 3192
+    },
+    "Resolucao_CONAMA_No_497-2020.pdf": {
+        "file_index": 657,
+        "n_pages": 7,
+        "n_words": 1404,
+        "n_characters": 13310
+    },
+    "Resolucao_CONAMA_No_498-2020.pdf": {
+        "file_index": 658,
+        "n_pages": 21,
+        "n_words": 5472,
+        "n_characters": 42885
+    },
+    "Resolucao_CONAMA_No_499-2020.pdf": {
+        "file_index": 660,
+        "n_pages": 19,
+        "n_words": 4219,
+        "n_characters": 36099
+    },
+    "Resolucao_CONAMA_No_500-2020.pdf": {
+        "file_index": 662,
+        "n_pages": 4,
+        "n_words": 1237,
+        "n_characters": 10045
+    },
+    "Resolucao_CONAMA_No_501-2021.pdf": {
+        "file_index": 664,
+        "n_pages": 1,
+        "n_words": 194,
+        "n_characters": 1628
+    },
+    "Resolucao_CONAMA_No_502-2021.pdf": {
+        "file_index": 666,
+        "n_pages": 5,
+        "n_words": 1082,
+        "n_characters": 9369
+    },
+    "Resolucao_CONAMA_No_503-2021.pdf": {
+        "file_index": 668,
+        "n_pages": 9,
+        "n_words": 2130,
+        "n_characters": 17721
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Constituicao_de_10_de_novembro_de_1937.pdf": {
+        "file_index": 0,
+        "n_pages": 35,
+        "n_words": 15346,
+        "n_characters": 128219
+    },
+    "Constituicao_de_16_de_julho_de_1934.pdf": {
+        "file_index": 1,
+        "n_pages": 46,
+        "n_words": 18622,
+        "n_characters": 154576
+    },
+    "Constituicao_de_18_de_setembro_de_1946.pdf": {
+        "file_index": 2,
+        "n_pages": 52,
+        "n_words": 23135,
+        "n_characters": 195345
+    },
+    "Constituicao_de_1988.pdf": {
+        "file_index": 3,
+        "n_pages": 183,
+        "n_words": 93179,
+        "n_characters": 773668
+    },
+    "Constituicao_de_24_de_fevereiro_de_1891.pdf": {
+        "file_index": 4,
+        "n_pages": 24,
+        "n_words": 10432,
+        "n_characters": 85730
+    },
+    "Constituicao_de_24_de_janeiro_de_1967.pdf": {
+        "file_index": 5,
+        "n_pages": 50,
+        "n_words": 18928,
+        "n_characters": 150702
+    },
+    "Constituicao_de_25_de_marco_de_1824.pdf": {
+        "file_index": 6,
+        "n_pages": 16,
+        "n_words": 6531,
+        "n_characters": 56389
+    }
+}
