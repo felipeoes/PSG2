@@ -51,7 +51,7 @@ if __name__ == "__main__":
         g_drive_folder_name=folder_path,
         csv_input_path=csv_path,
         filtering_keywords=filtering_keywords,
-        num_drivers=2,
+        num_drivers=4, # also num_thread that will be spawned
     )
 
     df, csv_path = qa_helper.run()

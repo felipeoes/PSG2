@@ -520,9 +520,9 @@ Retorne as 3 perguntas e respostas no formato especificado. Não gere nada além
         # chrome_options.add_argument("--disable-gpu")
 
         self.bing_driver = SeleniumBing(
-            # driver=webdriver.Edge(options=options),
+            driver=webdriver.Edge(options=options),
             # driver=webdriver.Chrome(options=chrome_options),
-            driver=uc.Chrome(options=chrome_options, headless=False, version_main=118),
+            # driver=uc.Chrome(options=chrome_options, headless=False, version_main=118),
             driver_id=self.driver_id,
         )
 

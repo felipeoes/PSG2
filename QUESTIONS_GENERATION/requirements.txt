@@ -112,9 +112,6 @@ starlette==0.27.0
 sympy==1.11.1
 tenacity==8.2.3
 tokenizers==0.13.3
-torch==2.0.1+cu117
-torchaudio==2.0.2+cu117
-torchvision==0.15.2+cu117
 tornado==6.3.3
 tqdm==4.66.1
 traitlets==5.12.0
