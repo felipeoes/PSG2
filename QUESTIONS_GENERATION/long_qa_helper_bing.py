@@ -3,7 +3,8 @@ import json
 import pandas as pd
 from tqdm import tqdm
 from typing import Generator, Tuple
-from bing_qa_generator import BingQAGenerator
+# from bing_qa_generator import BingQAGenerator
+from bing_qa_generator_skype import BingQAGenerator
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from threading import Thread
 from multiprocessing import Queue

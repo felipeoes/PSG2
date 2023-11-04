@@ -26,6 +26,7 @@ from selenium.common.exceptions import (
 )
 from markdownify import markdownify as md
 from threading import Thread, Lock, Timer
+load_dotenv()
 
 BING_URL = "https://www.bing.com/search?form=NTPCHB&q=Bing+AI&showconv=1"
 

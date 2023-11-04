@@ -335,6 +335,8 @@ datasets/
 datasets/*
 llama-2-7b-legislation-blue-amazon/
 llama-2-7b-legislation-blue-amazon/*
+workspace
+workspace/*
 
 # do not track any .csv files
 *.csv
